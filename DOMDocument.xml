@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Macintosh" versionInfo="Saved by Animate Macintosh 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="AA3624DA4340E047BE4D8A7FE55450B3">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Macintosh" versionInfo="Saved by Animate Macintosh 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="1B9E97E863D6AD368651CB9BE75F45FA">
      <folders>
           <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
           <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
@@ -434,7 +434,7 @@
                                                        </textAttrs>
                                                   </DOMTextRun>
                                                   <DOMTextRun>
-                                                       <characters>,&#xD; please select a topic by clicking on a picture below. </characters>
+                                                       <characters>, please select a topic by clicking on a picture below. </characters>
                                                        <textAttrs>
                                                             <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
                                                        </textAttrs>
@@ -463,7 +463,7 @@
                                                        </textAttrs>
                                                   </DOMTextRun>
                                                   <DOMTextRun>
-                                                       <characters>, please &#xD;select a topic by clicking on a picture below. </characters>
+                                                       <characters>, please select a topic by clicking on a picture below. </characters>
                                                        <textAttrs>
                                                             <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
                                                        </textAttrs>
@@ -508,7 +508,7 @@
                                                        </textAttrs>
                                                   </DOMTextRun>
                                                   <DOMTextRun>
-                                                       <characters>, please &#xD;select a topic by clicking on a picture below. </characters>
+                                                       <characters>, please select a topic by clicking on a picture below. </characters>
                                                        <textAttrs>
                                                             <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
                                                        </textAttrs>
@@ -553,7 +553,7 @@
                                                        </textAttrs>
                                                   </DOMTextRun>
                                                   <DOMTextRun>
-                                                       <characters>, please &#xD;select a topic by clicking on a picture below. </characters>
+                                                       <characters>, please select a topic by clicking on a picture below. </characters>
                                                        <textAttrs>
                                                             <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
                                                        </textAttrs>
@@ -595,12 +595,11 @@
                                                   <Point x="50" y="50"/>
                                              </transformationPoint>
                                              <parametersAsXML><![CDATA[   <property id="compositionID">
-      <Inspectable name="compositionID" variable="compositionID" category="" verbose="0" defaultValue="AA3624DA4340E047BE4D8A7FE55450B3" type="String"/>
+      <Inspectable name="compositionID" variable="compositionID" category="" verbose="0" defaultValue="1B9E97E863D6AD368651CB9BE75F45FA" type="String"/>
    </property>
    <property id="__ComponentType__">
       <Inspectable name="__ComponentType__" variable="__ComponentType__" category="" verbose="0" defaultValue="1" type="Number"/>
-   </property>
-]]></parametersAsXML>
+   </property>]]></parametersAsXML>
                                         </DOMComponentInstance>
                                    </elements>
                               </DOMFrame>
@@ -613,7 +612,10 @@
           <GlobalScripts language="Javascript"/>
      </scripts>
      <persistentData>
-          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+          <PD n="CreateJSToolkit_timelinedata" v="version
+0.1
+loop
+true"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory/>
