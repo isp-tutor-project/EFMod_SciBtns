@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CThermometer Assets/ThermometerFace" itemID="5a1da925-000004b0" lastModified="1511893285">
+  <timeline>
+    <DOMTimeline name="ThermometerFace">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CCCC99"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-16 204S5|-15 204!-15 204[-6 222 -11 243!-11 243[-17 262 -33 273!-33 273[-52 282 -72 277!-72 277[-91 272 -102 255!-102 255[-112 236 -106 217!-106 217[-101 197 -87 187"/>
+                    <Edge strokeStyle="1" edges="!-87 187S4[-86 188 -85 187!-85 187|25 -222!25 -222|25 -222.5!25 -222.5|54 -334!54 -334[57 -346 68 -346"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!68 -346S5|69 -346!69 -346|112 -335!112 -335[127 -331 123 -316!123 -316|-16 204"/>
+                    <Edge fillStyle0="1" edges="!-87 187S1|53 -335!53 -335[56 -347 68 -346"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-4 -425S6|217 -366!217 -366[227 -363 224 -351!224 -351|18 416!18 416[15 429 5 426!5 426|-216 367!-216 367[-226 364 -223 351!-223 351|-17 -416!-17 -416[-14 -428 -4 -425"/>
+                    <Edge cubics="!-4 -425(;-4,-425 217,-366 217,-366q-4 -425 217 -366);"/>
+                    <Edge cubics="!-17 -416(;-15,-424 -11,-427 -4,-425q-17 -416Q-14 -428q-4 -425);"/>
+                    <Edge cubics="!217 -366(;224,-364 226,-359 224,-351q217 -366Q227 -363q224 -351);"/>
+                    <Edge cubics="!-216 367(;-223,365 -225,360 -223,351q-216 367Q-226 364q-223 351);"/>
+                    <Edge cubics="!18 416(;16,425 12,428 5,426q18 416Q15 429q5 426);"/>
+                    <Edge cubics="!112 -335(;122,-332 126,-326 123,-316q112 -335Q127 -331q123 -316);"/>
+                    <Edge cubics="!123 -316(;123,-316 -16,204 -16,204q123 -316 -16 204);"/>
+                    <Edge cubics="!-87 187(;-87,187 53,-335 53,-335q-87 187 53 -335);"/>
+                    <Edge cubics="!69 -346(;69,-346 112,-335 112,-335q69 -346 112 -335);"/>
+                    <Edge cubics="!-106 217(;-103,204 -97,195 -87,187q-106 217Q-101 197q-87 187);"/>
+                    <Edge cubics="!-87 187(;-86,188 -86,188 -85,187q-87 187Q-86 188q-85 187);"/>
+                    <Edge cubics="!-16 204(;-15,204 -15,204 -15,204q-16 204Q-15 204q-15 204);"/>
+                    <Edge cubics="!-72 277(;-85,274 -95,267 -102,255q-72 277Q-91 272q-102 255);"/>
+                    <Edge cubics="!-33 273(;-46,280 -59,281 -72,277q-33 273Q-52 282q-72 277);"/>
+                    <Edge cubics="!-15 204(;-9,217 -8,229 -11,243q-15 204Q-6 222q-11 243);"/>
+                    <Edge cubics="!-102 255(;-110,242 -110,229 -106,217q-102 255Q-112 236q-106 217);"/>
+                    <Edge cubics="!-11 243(;-15,255 -22,266 -33,273q-11 243Q-17 262q-33 273);"/>
+                    <Edge cubics="!68 -346(;68,-346 69,-346 69,-346q68 -346 69 -346);"/>
+                    <Edge cubics="!54 -334(;56,-342 61,-347 68,-346q54 -334Q57 -346q68 -346);"/>
+                    <Edge cubics="!53 -335(;55,-343 61,-347 68,-346q53 -335Q56 -347q68 -346);"/>
+                    <Edge cubics="!25 -222(;25,-222 54,-334 54,-334q25 -222 54 -334);"/>
+                    <Edge cubics="!-85 187(;-85,187 25,-222 25,-222q-85 187 25 -222);"/>
+                    <Edge cubics="!5 426(;5,426 -216,367 -216,367q5 426 -216 367);"/>
+                    <Edge cubics="!-223 351(;-223,351 -17,-416 -17,-416q-223 351 -17 -416);"/>
+                    <Edge cubics="!224 -351(;224,-351 18,416 18,416q224 -351 18 416);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

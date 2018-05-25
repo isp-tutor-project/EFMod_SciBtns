@@ -1,0 +1,620 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Macintosh" versionInfo="Saved by Animate Macintosh 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="AA3624DA4340E047BE4D8A7FE55450B3">
+     <folders>
+          <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
+          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
+          <DOMFolderItem name="ButtonBackgroundAssets" itemID="5a4e50da-00000956"/>
+          <DOMFolderItem name="Buttongraphics" itemID="5af9d0c1-00000559"/>
+          <DOMFolderItem name="Buttongraphics/AreaBtnsCombined" itemID="5af9d09a-00000481"/>
+          <DOMFolderItem name="Buttongraphics/Forces&amp;MotionButtonGraphics" itemID="5a4d0cd6-0000054d"/>
+          <DOMFolderItem name="Buttongraphics/Forces&amp;MotionButtonGraphics/CylinderAssets" itemID="5a284863-0000002f"/>
+          <DOMFolderItem name="Buttongraphics/Forces&amp;MotionButtonGraphics/Ramp" itemID="5a4d0af7-000004a6"/>
+          <DOMFolderItem name="Buttongraphics/Forces&amp;MotionButtonGraphics/Ramp/RampSim Assets" itemID="4d6aa060-000004f5"/>
+          <DOMFolderItem name="Buttongraphics/Forces&amp;MotionButtonGraphics/Ramp/RampSim Assets/CBall Assets" itemID="4d6aa060-00000520"/>
+          <DOMFolderItem name="Buttongraphics/Forces&amp;MotionButtonGraphics/Ramp/RampSim Assets/CBase Assets" itemID="4d6aa060-0000053c"/>
+          <DOMFolderItem name="Buttongraphics/Forces&amp;MotionButtonGraphics/Ramp/RampSim Assets/CGate Assets" itemID="4d6aa060-0000051e"/>
+          <DOMFolderItem name="Buttongraphics/Forces&amp;MotionButtonGraphics/Ramp/RampSim Assets/CGrab Assets" itemID="4d6aa060-00000522"/>
+          <DOMFolderItem name="Buttongraphics/Forces&amp;MotionButtonGraphics/Ramp/RampSim Assets/Cincline Assets" itemID="4d6aa060-0000051a"/>
+          <DOMFolderItem name="Buttongraphics/Forces&amp;MotionButtonGraphics/Ramp/RampSim Assets/CRamp Assets" itemID="4d6aa060-0000054a"/>
+          <DOMFolderItem name="Buttongraphics/Forces&amp;MotionButtonGraphics/Ramp/RampSim Assets/Misc Assets" itemID="4d6aa060-0000051c"/>
+          <DOMFolderItem name="Buttongraphics/Forces&amp;MotionButtonGraphics/SaltWaterScenes" itemID="5a4d097d-00000284"/>
+          <DOMFolderItem name="Buttongraphics/Forces&amp;MotionButtonGraphics/Spheres" itemID="5a284b12-000000a9"/>
+          <DOMFolderItem name="Buttongraphics/Heat&amp;TempButtonGraphics" itemID="5a4d0cd1-0000054c"/>
+          <DOMFolderItem name="Buttongraphics/Heat&amp;TempButtonGraphics/Background Assets" itemID="5a3bf9f3-000000fe"/>
+          <DOMFolderItem name="Buttongraphics/Heat&amp;TempButtonGraphics/Balloon Assets" itemID="5a3c16a4-000000bf"/>
+          <DOMFolderItem name="Buttongraphics/Heat&amp;TempButtonGraphics/Balloon Assets/FoilBalloonAssets" itemID="5a37d737-00000033"/>
+          <DOMFolderItem name="Buttongraphics/Heat&amp;TempButtonGraphics/CDOThermometer Assets" itemID="5a2575b1-000000fe"/>
+          <DOMFolderItem name="Buttongraphics/Heat&amp;TempButtonGraphics/Chairs" itemID="5a3c1668-000000b2"/>
+          <DOMFolderItem name="Buttongraphics/Heat&amp;TempButtonGraphics/Chairs/WoodChair Assets" itemID="5a391994-0000006b"/>
+          <DOMFolderItem name="Buttongraphics/Heat&amp;TempButtonGraphics/CIceCubeContainer Assets" itemID="5a25753e-000000f1"/>
+          <DOMFolderItem name="Buttongraphics/Heat&amp;TempButtonGraphics/CShortGlassAssets" itemID="5a257594-000000fc"/>
+          <DOMFolderItem name="Buttongraphics/Heat&amp;TempButtonGraphics/Temperature Assets" itemID="5a3bfa05-00000104"/>
+          <DOMFolderItem name="Buttongraphics/Heat&amp;TempButtonGraphics/UmbrellaAssets" itemID="5a37d78a-00000041"/>
+          <DOMFolderItem name="Buttongraphics/LifeSciencesButtonGraphics" itemID="5a4d0789-00000120"/>
+          <DOMFolderItem name="Buttongraphics/LifeSciencesButtonGraphics/CFishTankAssets" itemID="5a2162d9-00000097"/>
+          <DOMFolderItem name="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets" itemID="5a1c85db-0000046d"/>
+          <DOMFolderItem name="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets" itemID="5a1db802-000004ea"/>
+          <DOMFolderItem name="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CGlass Assets" itemID="5a1d9ed3-000003c0"/>
+          <DOMFolderItem name="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets" itemID="5a1d9ff8-000003f0"/>
+          <DOMFolderItem name="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CThermometer Assets" itemID="5a1c8c47-000004de"/>
+          <DOMFolderItem name="Buttongraphics/LifeSciencesButtonGraphics/CThermometer Assets" itemID="5a21630d-0000009c"/>
+          <DOMFolderItem name="Buttongraphics/PhysicalChemiChangesButtonGraphics" itemID="5a4d1d4d-000007ac"/>
+          <DOMFolderItem name="Buttongraphics/PhysicalChemiChangesButtonGraphics/Bottle Assets" itemID="5a2a9f36-00000032"/>
+          <DOMFolderItem name="Buttongraphics/PhysicalChemiChangesButtonGraphics/CCrystal Assets" itemID="5a28146b-0000006a"/>
+          <DOMFolderItem name="Buttongraphics/PhysicalChemiChangesButtonGraphics/CDOJarAssets" itemID="5a25a583-00000047"/>
+          <DOMFolderItem name="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets" itemID="5a2aa19a-0000008f"/>
+          <DOMFolderItem name="Buttongraphics/PhysicalChemiChangesButtonGraphics/MintAssets" itemID="5a2a9f1c-0000002e"/>
+          <DOMFolderItem name="TextAssets" itemID="5a4d0641-00000039"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
+     </media>
+     <symbols>
+          <Include href="_Tutor Global Assets_/SceneRegion.xml" loadImmediate="false" itemID="5ad4e5af-00000a3e" lastModified="1523901913"/>
+          <Include href="_Tutor Global Assets_/TutorModule.xml" loadImmediate="false" itemID="5ad39eb8-000002c4" lastModified="1523818168"/>
+          <Include href="ButtonBackgroundAssets/AlgaeGrowthTopicButton.xml" itemIcon="0" loadImmediate="false" itemID="5a4e3bc8-000000f2" lastModified="1515076881"/>
+          <Include href="ButtonBackgroundAssets/BalloonTempTopicButtonBackground.xml" loadImmediate="false" itemID="5a4e490e-0000042f" lastModified="1515079950"/>
+          <Include href="ButtonBackgroundAssets/CrystalGrowthButtonBackground.xml" loadImmediate="false" itemID="5a4e4c01-00000786" lastModified="1515081013"/>
+          <Include href="ButtonBackgroundAssets/CrystalGrowthTopicButtonBackground.xml" loadImmediate="false" itemID="5a4e4d32-000007ab" lastModified="1515081010"/>
+          <Include href="ButtonBackgroundAssets/FlowerReproductionTopicButton.xml" itemIcon="0" loadImmediate="false" itemID="5a4e3baa-000000ee" lastModified="1515076837"/>
+          <Include href="ButtonBackgroundAssets/IceMeltingTopicButtonBackground.xml" loadImmediate="false" itemID="5a4e48fb-00000425" lastModified="1515079932"/>
+          <Include href="ButtonBackgroundAssets/RampTopicButton.xml" itemIcon="0" loadImmediate="false" itemID="5a4e42d5-00000241" lastModified="1515078535"/>
+          <Include href="ButtonBackgroundAssets/SinkingTopicButton.xml" itemIcon="0" loadImmediate="false" itemID="5a4e4307-00000269" lastModified="1515078554"/>
+          <Include href="ButtonBackgroundAssets/SodaMintReactionButtonBackground.xml" loadImmediate="false" itemID="5a4e4c25-0000078c" lastModified="1515081040"/>
+          <Include href="ButtonBackgroundAssets/SodaReactionTopicButtonBackground.xml" loadImmediate="false" itemID="5a4e4d50-000007af" lastModified="1515081040"/>
+          <Include href="Buttongraphics/AreaBtnsCombined/ButtonBackground.xml" loadImmediate="false" itemID="5a4d0266-00000005" lastModified="1514996326"/>
+          <Include href="Buttongraphics/AreaBtnsCombined/TC_TButton__Forces&amp;#038Motion.xml" itemIcon="0" loadImmediate="false" itemID="5af9d536-0000056a" lastModified="1526324898"/>
+          <Include href="Buttongraphics/AreaBtnsCombined/TC_TButton__Heat&amp;#038Temp.xml" itemIcon="0" loadImmediate="false" itemID="5af9d52b-00000569" lastModified="1526324866"/>
+          <Include href="Buttongraphics/AreaBtnsCombined/TC_TButton__PhysicalChemicalChanges.xml" itemIcon="0" loadImmediate="false" itemID="5af9d518-00000567" lastModified="1526324521"/>
+          <Include href="Buttongraphics/AreaBtnsCombined/TC_TButton__PlantGrowth.xml" itemIcon="0" loadImmediate="false" itemID="5af9d522-00000568" lastModified="1526324937"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CCylinder.xml" loadImmediate="false" itemID="5a284914-00000046" lastModified="1512589588"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CCylinderSaltWater.xml" loadImmediate="false" itemID="5a2849fd-00000069" lastModified="1512589822"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/cylinderbase.xml" loadImmediate="false" itemID="5a284825-0000001a" lastModified="1512589349"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/Cylinderbaseback.xml" loadImmediate="false" itemID="5a284981-00000059" lastModified="1512589697"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/cylinderbasegloss.xml" loadImmediate="false" itemID="5a284836-0000001f" lastModified="1512589366"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/CylinderGlass.xml" loadImmediate="false" itemID="5a2848b1-00000039" lastModified="1512589489"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/cylinderglasshighlights.xml" loadImmediate="false" itemID="5a284881-00000031" lastModified="1512589441"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/CylinderGraduations.xml" loadImmediate="false" itemID="5a2848a1-00000035" lastModified="1512589473"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/Saltwater.xml" loadImmediate="false" itemID="5a285109-00000218" lastModified="1526326369"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CAngleCue.xml" itemID="48bab70d-000001ba" lastModified="1220206735"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CBall Assets/CballRed.xml" loadImmediate="false" itemID="48bd96e5-000001f9" lastModified="1226441870"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CBall Assets/CballYellow.xml" itemID="48bd96e5-000001ff" lastModified="1226435176"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CBase Assets/CbaseNull.xml" itemID="48bac724-000001e9" lastModified="1514998902"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CGate Assets/CdoorSolid.xml" itemID="48bd96e5-0000020e" lastModified="1220198492"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CGate Assets/CGateSolid.xml" itemID="48bd96e5-0000020b" lastModified="1273678482"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CGrab Assets/Arrow1.xml" itemIcon="1" loadImmediate="false" itemID="48bd96e5-000001ed" lastModified="1226433252"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CGrab Assets/CGrabSolid.xml" itemID="48bd96e5-000001ea" lastModified="1273798178"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/Cincline Assets/CinclineSmooth.xml" itemID="48bada90-00000248" lastModified="1220205264"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CRamp Assets/CangleCueOutline.xml" itemID="48bac652-000001e7" lastModified="1220200081"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CRamp Assets/CangleCueSolid.xml" itemID="48bac655-000001e8" lastModified="1226434943"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CRamp Assets/CangleMask.xml" itemID="48bab785-000001c4" lastModified="1220205247"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/Misc Assets/CHinge.xml" itemID="48bd96e5-000001f0" lastModified="1220195687"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/RampSimImage.xml" loadImmediate="false" itemID="48aa2048-000003c3" lastModified="1514998769"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/SaltWaterScenes/CSmall_GlassSphere_SaltWater.xml" loadImmediate="false" itemID="5a285195-00000223" lastModified="1514998206"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Spheres/SmallSphere_Glass.xml" loadImmediate="false" itemID="5a284b66-000000b2" lastModified="1512590182"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Spheres/SphereHighlight.xml" loadImmediate="false" itemID="5a284a9d-0000009b" lastModified="1512589981"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Background Assets/BackgroundHill.xml" loadImmediate="false" itemID="5a3437eb-00000052" lastModified="1513371627"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Background Assets/Sun.xml" loadImmediate="false" itemID="5a37d6f2-00000029" lastModified="1513608946"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Balloon Assets/CFoilBalloonGray.xml" loadImmediate="false" itemID="5a37d9a4-0000005a" lastModified="1513609636"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Balloon Assets/FoilBalloonAssets/FoilBalloonGray.xml" loadImmediate="false" itemID="5a33fddf-00000029" lastModified="1513356767"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Balloon Assets/FoilBalloonAssets/FoilBalloonShine1.xml" loadImmediate="false" itemID="5a33fdd3-00000027" lastModified="1513356755"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Balloon Assets/FoilBalloonAssets/FoilBalloonShine2.xml" loadImmediate="false" itemID="5a33fdc9-00000026" lastModified="1513356745"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerarrowzerodegrees.xml" loadImmediate="false" itemID="5a25752c-000000ed" lastModified="1512404268"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerknob.xml" loadImmediate="false" itemID="5a1c7a55-0000002e" lastModified="1511815766"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerpointernegativetwenty.xml" loadImmediate="false" itemID="5a2574d1-000000e7" lastModified="1512404177"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerwithnumbers.xml" loadImmediate="false" itemID="5a1c7ac4-00000042" lastModified="1511815876"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Chairs/CWoodChair.xml" loadImmediate="false" itemID="5a34366f-00000022" lastModified="1513371247"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Chairs/WoodChair Assets/CWoodChairOutline.xml" loadImmediate="false" itemID="5a34361e-00000017" lastModified="1513371166"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Chairs/WoodChair Assets/WoodChairColor.xml" loadImmediate="false" itemID="5a343662-0000001e" lastModified="1513371234"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Chairs/WoodChair Assets/WoodChairShadow.xml" loadImmediate="false" itemID="5a343a9a-0000005c" lastModified="1513372314"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CIceCubeContainer.xml" loadImmediate="false" itemID="5a257795-0000016e" lastModified="1512404885"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CIceCubeContainer Assets/icecubecontainer.xml" loadImmediate="false" itemID="5a1c7ad3-00000046" lastModified="1511815891"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CIceCubeContainer Assets/icecubesincontainer.xml" loadImmediate="false" itemID="5a1c7a94-0000003a" lastModified="1511815829"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/ClosedUmbrella_WoodChair_FoilBalloon_Gray.xml" loadImmediate="false" itemID="5a4d1c51-000006e2" lastModified="1515002961"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAll.xml" loadImmediate="false" itemID="5a26c53b-0000007f" lastModified="1512490299"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAssets/Shortglass.xml" loadImmediate="false" itemID="5a1c79bb-00000022" lastModified="1511815611"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAssets/Shortglassicecube.xml" loadImmediate="false" itemID="5a1c79af-0000001e" lastModified="1511815599"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAssets/Shortglasspatternonly.xml" loadImmediate="false" itemID="5a259fca-00000038" lastModified="1512415178"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAssets/Shortglasssteamonly.xml" loadImmediate="false" itemID="5a257e68-00000242" lastModified="1512406632"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAssets/Shortglasswater.xml" loadImmediate="false" itemID="5a1c79a2-0000001a" lastModified="1511815586"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/table.xml" loadImmediate="false" itemID="5a1c7b04-0000004a" lastModified="1511815940"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Temperature Assets/CTemperatureReader.xml" loadImmediate="false" itemID="5a37d6f7-0000002a" lastModified="1513608951"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Temperature Assets/TemperatureGaugeNumbers.xml" loadImmediate="false" itemID="5a37d859-0000004f" lastModified="1513609305"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/UmbrellaAssets/CClosedUmbrellawithShadow.xml" loadImmediate="false" itemID="5a391d1b-0000008f" lastModified="1513692443"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/UmbrellaAssets/ClosedUmbrellaShadow.xml" loadImmediate="false" itemID="5a37d7fb-0000004b" lastModified="1513609211"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/UmbrellaAssets/UmbrellaClosedSolid.xml" loadImmediate="false" itemID="5a391c6e-00000084" lastModified="1513692270"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CAlgaeLarge.xml" loadImmediate="false" itemID="5a216221-0000008c" lastModified="1512137249"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CFishTankAssets/squaredistilledwater.xml" loadImmediate="false" itemID="5a1c5283-0000002f" lastModified="1511805571"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CFishTankAssets/squarefishtank.xml" loadImmediate="false" itemID="5a1c52c4-00000037" lastModified="1511805636"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CFishTankAssets/squaretintedfishtanklid.xml" loadImmediate="false" itemID="5a1c5249-00000023" lastModified="1511805513"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CFishTankRoomTemp.xml" loadImmediate="false" itemID="5a216744-00000122" lastModified="1514997435"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse.xml" loadImmediate="false" itemID="5a1c8595-00000464" lastModified="1514997906"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive.xml" loadImmediate="false" itemID="5a1db7f8-000004e9" lastModified="1511900424"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeHive.xml" loadImmediate="false" itemID="5a1da963-000004b8" lastModified="1511893347"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeHiveOutline.xml" loadImmediate="false" itemID="5a1dc117-000007ea" lastModified="1511900212"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeSolid.xml" loadImmediate="false" itemID="5a1dc18a-00000800" lastModified="1511899567"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/Box.xml" loadImmediate="false" itemID="5a1dc4a6-000008eb" lastModified="1511900326"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BoxOutline.xml" loadImmediate="false" itemID="5a1dc4ad-000008ec" lastModified="1511900333"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/CDO_BeehiveOutline.xml" loadImmediate="false" itemID="5a1dc0f9-000007e2" lastModified="1511900386"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/CDO_BeehiveSolid.xml" loadImmediate="false" itemID="5a1dc0ca-000007c6" lastModified="1511899339"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/SwarmSolid.xml" loadImmediate="false" itemID="5a1dc4cb-000008ee" lastModified="1511900363"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CGlass Assets/CDO_GlassNormal.xml" loadImmediate="false" itemID="5a1db7a9-000004e3" lastModified="1511897001"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed.xml" loadImmediate="false" itemID="5a1d9eee-000003c3" lastModified="1511892639"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/CDO_Sunflowers.xml" loadImmediate="false" itemID="5a1db7e3-000004e7" lastModified="1511897059"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/CDO_SunflowersSparse.xml" loadImmediate="false" itemID="5a1db7e8-000004e8" lastModified="1511897064"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/Dirt.xml" loadImmediate="false" itemID="5a1da932-000004b2" lastModified="1511893298"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/PlantingBox.xml" loadImmediate="false" itemID="5a1da93a-000004b4" lastModified="1511893306"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/Sunflower.xml" loadImmediate="false" itemID="5a1da937-000004b3" lastModified="1511893303"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/SunflowerSparse.xml" loadImmediate="false" itemID="5a1da945-000004b5" lastModified="1511893317"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CThermometer.xml" loadImmediate="false" itemID="5a1c8c36-000004da" lastModified="1511892092"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CThermometer Assets/CDO_BulbCold.xml" loadImmediate="false" itemID="5a1db7d5-000004e5" lastModified="1511897045"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CThermometer Assets/CDO_BulbHot.xml" loadImmediate="false" itemID="5a1db7da-000004e6" lastModified="1511897050"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CThermometer Assets/ThermometerFace.xml" loadImmediate="false" itemID="5a1da925-000004b0" lastModified="1511893285"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CThermometer Assets/ThermometerPole.xml" loadImmediate="false" itemID="5a1da92f-000004b1" lastModified="1511893295"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/GreenHouseBack.xml" loadImmediate="false" itemID="5a1da951-000004b7" lastModified="1511893329"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/GreenHouseFront.xml" loadImmediate="false" itemID="5a1da94d-000004b6" lastModified="1511893325"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CThermometer Assets/squarefishtankthermometer.xml" loadImmediate="false" itemID="5a1c521f-0000001f" lastModified="1511805471"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CThermometer Assets/squarethermometercolorroomtemp.xml" loadImmediate="false" itemID="5a1c520c-0000001b" lastModified="1511805452"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CThermometer Assets/squarethermometernumbers.xml" loadImmediate="false" itemID="5a1c51e8-00000012" lastModified="1511805416"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CThermometerRoomTemp.xml" loadImmediate="false" itemID="5a2164f9-000000b8" lastModified="1512137977"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/GreenhouseButtonGraphic.xml" loadImmediate="false" itemID="5a4d08bd-00000213" lastModified="1514997949"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/TC_TObject__PlantGrowth.xml" loadImmediate="false" itemID="5af9d504-00000564" lastModified="1526322436"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/Bottle Assets/co2halffullbottle.xml" loadImmediate="false" itemID="5a09c5be-00000040" lastModified="1510589886"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/Bottle Assets/sodabottle.xml" loadImmediate="false" itemID="59f72b12-00000038" lastModified="1509370642"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/Bottle Assets/sodabottletint.xml" loadImmediate="false" itemID="59f72a8c-00000026" lastModified="1512744098"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/BottleCombinedWGeyser.xml" loadImmediate="false" itemID="5a4d2142-000008ee" lastModified="1515004226"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CCrystal Assets/fullgrowncrystal.xml" loadImmediate="false" itemID="5a09ca3c-0000002e" lastModified="1510591259"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CDOJarAssets/distilledwater.xml" loadImmediate="false" itemID="5a25a4ca-0000003e" lastModified="1512416458"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CDOJarAssets/jarhighlights.xml" loadImmediate="false" itemID="5a09caac-0000003d" lastModified="1510591148"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CDOJarAssets/jarnew.xml" loadImmediate="false" itemID="5a09c9d1-0000001b" lastModified="1510590929"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CDOJarAssets/yarnwithjar.xml" loadImmediate="false" itemID="5a0dac06-00000029" lastModified="1510845446"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/Cjar_yarn_fullcrystal.xml" loadImmediate="false" itemID="5a281606-00000093" lastModified="1512576518"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabel.xml" loadImmediate="false" itemID="5a2aa01f-0000005e" lastModified="1512742943"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/caffeinefree.xml" loadImmediate="false" itemID="5a09c50c-0000002c" lastModified="1510589708"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/labelcolor.xml" loadImmediate="false" itemID="5a09c55c-00000036" lastModified="1510589788"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/sodatext.xml" loadImmediate="false" itemID="59f72a10-00000012" lastModified="1509370384"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/sugarfree.xml" loadImmediate="false" itemID="5a09c543-00000031" lastModified="1510589763"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/MintAssets/mintinhand.xml" loadImmediate="false" itemID="5a09c719-0000006e" lastModified="1510590234"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/pencil.xml" loadImmediate="false" itemID="59f72b91-0000006a" lastModified="1509370769"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/Symbol 1.xml" loadImmediate="false" itemID="5a2ae7a3-000000ac" lastModified="1512761251"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/TC_TObject__PhysicalChemicalChanges.xml" loadImmediate="false" itemID="5af9d4fb-00000563" lastModified="1526322427"/>
+          <Include href="TC_TButton__Algae.xml" itemIcon="0" loadImmediate="false" itemID="5af9e528-00000683" lastModified="1526326568"/>
+          <Include href="TC_TButton__Balloon.xml" itemIcon="0" loadImmediate="false" itemID="5af9e52e-00000684" lastModified="1526326574"/>
+          <Include href="TC_TButton__CrystalGrowth.xml" itemIcon="0" loadImmediate="false" itemID="5af9e536-00000685" lastModified="1526326582"/>
+          <Include href="TC_TButton__FlowerReproduction.xml" itemIcon="0" loadImmediate="false" itemID="5af9e542-00000687" lastModified="1526326594"/>
+          <Include href="TC_TButton__IceMeltingTime.xml" itemIcon="0" loadImmediate="false" itemID="5af9e50c-00000681" lastModified="1526326540"/>
+          <Include href="TC_TButton__Ramps.xml" itemIcon="0" loadImmediate="false" itemID="5af9e517-00000682" lastModified="1526326551"/>
+          <Include href="TC_TButton__Sinking.xml" itemIcon="0" loadImmediate="false" itemID="5af9e504-00000680" lastModified="1526326532"/>
+          <Include href="TC_TButton__SodaMintReaction.xml" itemIcon="0" loadImmediate="false" itemID="5af9e4fa-0000067f" lastModified="1526326522"/>
+          <Include href="TC_TObject__AreasofScienceHighlight.xml" loadImmediate="false" itemID="5af9d63a-000006b4" lastModified="1526322746"/>
+          <Include href="TC_TScene__AreasofScience_1.xml" loadImmediate="false" itemID="5af9da08-0000085e" lastModified="1526323720"/>
+          <Include href="TC_TScene__AreasofScience_2.xml" loadImmediate="false" itemID="5af9da2d-00000903" lastModified="1526323757"/>
+          <Include href="TC_TScene__AreasofScience_3.xml" loadImmediate="false" itemID="5af9da40-000009a8" lastModified="1526323776"/>
+          <Include href="TC_TScene__AreasofScience_4.xml" loadImmediate="false" itemID="5af9da54-00000a4d" lastModified="1526323797"/>
+          <Include href="TC_TScene__AreasofScience_5.xml" loadImmediate="false" itemID="5af9da6c-00000af2" lastModified="1526323820"/>
+          <Include href="TC_TScene__AreasofScience_6.xml" loadImmediate="false" itemID="5af9da81-00000b97" lastModified="1526323841"/>
+          <Include href="TC_TScene__AreasofScience_7.xml" loadImmediate="false" itemID="5af9da96-00000c3c" lastModified="1526323863"/>
+          <Include href="TC_TScene__AreasofScience_8.xml" loadImmediate="false" itemID="5af9dac5-00000ce1" lastModified="1526323910"/>
+          <Include href="TC_TScene__AreasofScience_9.xml" loadImmediate="false" itemID="5af9dadb-00000d86" lastModified="1526323931"/>
+          <Include href="TC_TScene__AreasofScience_10.xml" loadImmediate="false" itemID="5af9daf3-00000e2b" lastModified="1526323956"/>
+          <Include href="TC_TScene__AreasofScience_11.xml" loadImmediate="false" itemID="5af9db0b-00000ed0" lastModified="1526323980"/>
+          <Include href="TC_TScene__AreasofScience_12.xml" loadImmediate="false" itemID="5af9db21-00000f75" lastModified="1526324001"/>
+          <Include href="TC_TScene__AreasofScienceButtons.xml" loadImmediate="false" itemID="5af9d594-00000610" lastModified="1527252639"/>
+          <Include href="TextAssets/FMButtonText.xml" loadImmediate="false" itemID="5a4d0407-00000025" lastModified="1514996743"/>
+          <Include href="TextAssets/HTButtonText.xml" loadImmediate="false" itemID="5a4d03ab-00000018" lastModified="1514996651"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" currentFrame="1">
+               <layers>
+                    <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[stop();]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Scene Bounds" color="#FF00FF" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/SceneRegion">
+                                             <transformationPoint>
+                                                  <Point x="959.95" y="600"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Module Content" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScienceButtons">
+                                             <matrix>
+                                                  <Matrix tx="961.6" ty="536.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_1" selected="true">
+                                             <matrix>
+                                                  <Matrix tx="961.6" ty="536.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_2">
+                                             <matrix>
+                                                  <Matrix tx="961.6" ty="536.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_3">
+                                             <matrix>
+                                                  <Matrix tx="961.6" ty="536.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_4">
+                                             <matrix>
+                                                  <Matrix tx="961.6" ty="536.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_5">
+                                             <matrix>
+                                                  <Matrix tx="961.6" ty="536.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_6">
+                                             <matrix>
+                                                  <Matrix tx="961.6" ty="536.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_7">
+                                             <matrix>
+                                                  <Matrix tx="961.6" ty="536.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_8">
+                                             <matrix>
+                                                  <Matrix tx="961.6" ty="536.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_9">
+                                             <matrix>
+                                                  <Matrix tx="961.6" ty="536.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_10" selected="true">
+                                             <matrix>
+                                                  <Matrix tx="961.6" ty="536.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_11">
+                                             <matrix>
+                                                  <Matrix tx="961.6" ty="536.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_12">
+                                             <matrix>
+                                                  <Matrix tx="961.6" ty="536.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScienceButtons" centerPoint3DX="961.6" centerPoint3DY="536.6">
+                                             <matrix>
+                                                  <Matrix tx="961.6" ty="536.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="TC_TButton__CrystalGrowth" symbolType="button">
+                                             <matrix>
+                                                  <Matrix a="2.5" d="2.5" tx="577.55" ty="594.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="TC_TButton__SodaMintReaction" symbolType="button">
+                                             <matrix>
+                                                  <Matrix a="2.5" d="2.5" tx="1320.8" ty="592.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMStaticText fontRenderingMode="standard" left="-34.2" width="1824.45" height="164" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="84.25" ty="120.6"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Within the area of, </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>Physical and Chemical Changes</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold" fillColor="#0098FF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>,&#xD; please select a topic by clicking on a picture below. </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText selected="true" fontRenderingMode="standard" left="-42.2" width="1836.45" height="164" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="84.25" ty="136.6"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Within the area of </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>Heat &amp; Temperature</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold" fillColor="#0098FF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>, please &#xD;select a topic by clicking on a picture below. </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="TC_TButton__IceMeltingTime" symbolType="button">
+                                             <matrix>
+                                                  <Matrix a="2.5" d="2.5" tx="566.1" ty="590.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="TC_TButton__Balloon" symbolType="button">
+                                             <matrix>
+                                                  <Matrix a="2.5" d="2.5" tx="1330.35" ty="590.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="16" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText selected="true" fontRenderingMode="standard" left="-42.2" width="1836.45" height="164" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="84.25" ty="136.6"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Within the area of </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>Forces &amp; Motion</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold" fillColor="#0098FF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>, please &#xD;select a topic by clicking on a picture below. </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="TC_TButton__Ramps" symbolType="button">
+                                             <matrix>
+                                                  <Matrix a="2.5" d="2.5" tx="608.9" ty="596.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="TC_TButton__Sinking" symbolType="button">
+                                             <matrix>
+                                                  <Matrix a="2.5" d="2.5" tx="1319.7" ty="596.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="17" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="standard" left="-42.2" width="1836.45" height="164" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="84.25" ty="136.6"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Within the area of </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>Plant Growth</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold" fillColor="#0098FF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>, please &#xD;select a topic by clicking on a picture below. </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="TC_TButton__FlowerReproduction" symbolType="button">
+                                             <matrix>
+                                                  <Matrix a="2.5" d="2.5" tx="604.6" ty="592.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="TC_TButton__Algae" symbolType="button">
+                                             <matrix>
+                                                  <Matrix a="2.5" d="2.5" tx="1335.6" ty="592.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="19" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Module Component" color="#00FFFF" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMComponentInstance libraryItemName="_Tutor Global Assets_/TutorModule" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix tx="910" ty="550"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="50" y="50"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="compositionID">
+      <Inspectable name="compositionID" variable="compositionID" category="" verbose="0" defaultValue="AA3624DA4340E047BE4D8A7FE55450B3" type="String"/>
+   </property>
+   <property id="__ComponentType__">
+      <Inspectable name="__ComponentType__" variable="__ComponentType__" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

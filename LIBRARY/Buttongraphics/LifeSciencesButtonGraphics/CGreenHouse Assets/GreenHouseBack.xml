@@ -1,0 +1,70 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/GreenHouseBack" itemID="5a1da951-000004b7" lastModified="1511893329">
+  <timeline>
+    <DOMTimeline name="GreenHouseBack">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal" weight="0.05" solidStyle="hairline">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="3">
+                      <SolidStroke scaleMode="normal" weight="0.5">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="4">
+                      <SolidStroke scaleMode="normal" weight="0.85">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!1496 1248|2287 1126"/>
+                    <Edge strokeStyle="2" edges="!4624 2278|2287 1126"/>
+                    <Edge strokeStyle="3" edges="!2233 -1343|2287 1126"/>
+                    <Edge strokeStyle="1" edges="!-592 1567|-122 1495"/>
+                    <Edge strokeStyle="4" edges="!-1254 1667|-592 1567!-4626 2182|-1262 1668"/>
+                    <Edge strokeStyle="1" edges="!-113 1494|1488 1249"/>
+                    <Edge cubics="!2233 -1343(;2233,-1343 2287,1126 2287,1126q2233 -1343 2287 1126);"/>
+                    <Edge cubics="!-1254 1667(;-1254,1667 -592,1567 -592,1567q-1254 1667 -592 1567);"/>
+                    <Edge cubics="!1496 1248(;1496,1248 2287,1126 2287,1126q1496 1248 2287 1126);"/>
+                    <Edge cubics="!4624 2278(;4624,2278 2287,1126 2287,1126q4624 2278 2287 1126);"/>
+                    <Edge cubics="!-592 1567(;-592,1567 -122,1495 -122,1495q-592 1567 -122 1495);"/>
+                    <Edge cubics="!-4626 2182(;-4626,2182 -1262,1668 -1262,1668q-4626 2182 -1262 1668);"/>
+                    <Edge cubics="!-113 1494(;-113,1494 1488,1249 1488,1249q-113 1494 1488 1249);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

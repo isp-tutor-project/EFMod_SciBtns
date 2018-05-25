@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TScene__AreasofScience_4" itemID="5af9da54-00000a4d" lastModified="1526323797">
+  <timeline>
+    <DOMTimeline name="TC_TScene__AreasofScience_4">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScienceButtons" selected="true">
+                  <transformationPoint>
+                    <Point y="0.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="TC_TObject__AreasofScienceHighlight" selected="true">
+                  <matrix>
+                    <Matrix a="1.02008056640625" d="1.02008056640625" tx="315.85" ty="-169.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

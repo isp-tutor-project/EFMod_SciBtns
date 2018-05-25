@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/Forces&amp;#038MotionButtonGraphics/SaltWaterScenes/CSmall_GlassSphere_SaltWater" itemID="5a285195-00000223" lastModified="1514998206">
+  <timeline>
+    <DOMTimeline name="CSmall_GlassSphere_SaltWater">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Spheres/SmallSphere_Glass">
+                  <matrix>
+                    <Matrix tx="-26.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Spheres/SphereHighlight">
+                  <matrix>
+                    <Matrix tx="-24.05" ty="-1.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CCylinderSaltWater" selected="true">
+                  <matrix>
+                    <Matrix tx="-39.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

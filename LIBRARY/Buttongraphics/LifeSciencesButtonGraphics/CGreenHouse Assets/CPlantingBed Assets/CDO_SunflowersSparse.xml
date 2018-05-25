@@ -1,0 +1,200 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/CDO_SunflowersSparse" itemID="5a1db7e8-000004e8" lastModified="1511897064">
+  <timeline>
+    <DOMTimeline name="CDO_SunflowersSparse">
+      <layers>
+        <DOMLayer name="CSingleSunflower11" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/SunflowerSparse">
+                  <matrix>
+                    <Matrix tx="-37.95" ty="17.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CSingleSunflower12" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/SunflowerSparse">
+                  <matrix>
+                    <Matrix tx="-59.1" ty="15.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CSingleSunflower4" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/SunflowerSparse">
+                  <matrix>
+                    <Matrix tx="36" ty="3.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CSingleSunflower8" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/SunflowerSparse">
+                  <matrix>
+                    <Matrix tx="-18.65" ty="14.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CSingleSunflower1" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/SunflowerSparse">
+                  <matrix>
+                    <Matrix tx="1.65" ty="9.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CSingleSunflower6" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/SunflowerSparse">
+                  <matrix>
+                    <Matrix tx="10.95" ty="4.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CSingleSunflower2" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/SunflowerSparse">
+                  <matrix>
+                    <Matrix tx="59.25" ty="-2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CSingleSunflower3" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/SunflowerSparse">
+                  <matrix>
+                    <Matrix tx="43.4" ty="-7.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CSingleSunflower5" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/SunflowerSparse">
+                  <matrix>
+                    <Matrix tx="18.15" ty="-4.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CSingleSunflower7" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/SunflowerSparse">
+                  <matrix>
+                    <Matrix tx="-5" ty="-4.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CSingleSunflower9" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/SunflowerSparse">
+                  <matrix>
+                    <Matrix tx="-29.35" ty="-1.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CSingleSunflower10" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed Assets/SunflowerSparse">
+                  <matrix>
+                    <Matrix tx="-50.4" ty="6.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

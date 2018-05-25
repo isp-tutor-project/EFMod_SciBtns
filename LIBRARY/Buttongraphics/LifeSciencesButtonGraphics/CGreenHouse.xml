@@ -1,0 +1,107 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse" itemID="5a1c8595-00000464" lastModified="1514997906" lastUniqueIdentifier="4">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="CGreenHouse">
+      <layers>
+        <DOMLayer name="GreenHouseFront" color="#00FFFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/GreenHouseFront" name="SgreenHouseFront">
+                  <matrix>
+                    <Matrix tx="0.6" ty="8.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="normalglass" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CGlass Assets/CDO_GlassNormal">
+                  <matrix>
+                    <Matrix tx="2.4" ty="8.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Thermometer" color="#00FFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CThermometer" name="Sthermometer">
+                  <matrix>
+                    <Matrix tx="110.2" ty="40.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="GreenHouseBack" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/GreenHouseBack" name="SgreenHouseBack">
+                  <matrix>
+                    <Matrix tx="0.8" ty="8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="23.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Bees" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive" name="Sbees">
+                  <matrix>
+                    <Matrix tx="-28.55" ty="37.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PlantBed" color="#669900" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CPlantingBed" name="SplantingBed">
+                  <matrix>
+                    <Matrix tx="27.05" ty="79.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

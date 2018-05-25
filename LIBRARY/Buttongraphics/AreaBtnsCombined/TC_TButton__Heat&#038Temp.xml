@@ -1,0 +1,183 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/AreaBtnsCombined/TC_TButton__Heat&amp;#038Temp" itemID="5af9d52b-00000569" symbolType="button" lastModified="1526324866" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="TC_TButton__Heat&amp;#038Temp" currentFrame="3">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/AreaBtnsCombined/ButtonBackground" centerPoint3DX="-0.8" centerPoint3DY="-4.05">
+                  <matrix>
+                    <Matrix a="0.858154296875" d="0.858154296875" tx="-0.85" ty="-4.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="TextAssets/HTButtonText" centerPoint3DX="1.1" centerPoint3DY="-64.55">
+                  <matrix>
+                    <Matrix a="0.858154296875" d="0.858154296875" tx="1.1" ty="-64.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" left="20.4" width="103.2" height="28.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.858154296875" d="0.858154296875" tx="-119.95" ty="29.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Ice Melting Time&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="13.35" size="11" bitmapSize="220" face="Verdana-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAll" centerPoint3DX="-53.3" centerPoint3DY="-5.05">
+                  <matrix>
+                    <Matrix a="0.1905517578125" d="0.1905517578125" tx="-53.3" ty="-5.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/ClosedUmbrella_WoodChair_FoilBalloon_Gray" centerPoint3DX="62.8" centerPoint3DY="-14.75">
+                  <matrix>
+                    <Matrix a="0.1844482421875" d="0.1844482421875" tx="62.75" ty="-14.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="-3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" left="16.75" width="110.5" height="59.4" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.858154296875" d="0.858154296875" tx="-2.55" ty="10.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="71.95" y="29.75"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;Temperature of a &#xD;Gas&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="13.35" size="11" bitmapSize="220" face="Verdana-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" left="66.6" width="10.8" height="10.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-70.85" ty="33"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>or</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="10.95" size="9" bitmapSize="180" face="Verdana-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="4.95">
+                        <fill>
+                          <SolidColor color="#0098FF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-1960 -1562|1927 -1562!1927 -1562[2028 -1562 2099 -1490!2099 -1490[2170 -1419 2170 -1318!2170 -1318|2170 1155!2170 1155[2170 1256 2099 1327!2099 1327[2028 1398 1927 1398!1927 1398|-1960 1398!-1960 1398[-2061 1398 -2132 1327!-2132 1327
+[-2203 1256 -2203 1155!-2203 1155|-2203 -1318!-2203 -1318[-2203 -1419 -2132 -1490!-2132 -1490[-2061 -1562 -1960 -1562"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/AreaBtnsCombined/ButtonBackground" centerPoint3DX="-0.8" centerPoint3DY="-4.05">
+                  <matrix>
+                    <Matrix a="0.858154296875" d="0.858154296875" tx="-0.85" ty="-4.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="TextAssets/HTButtonText" centerPoint3DX="1.1" centerPoint3DY="-64.55">
+                  <matrix>
+                    <Matrix a="0.858154296875" d="0.858154296875" tx="1.1" ty="-64.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" left="20.4" width="103.2" height="28.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.858154296875" d="0.858154296875" tx="-119.95" ty="29.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Ice Melting Time&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="13.35" size="11" bitmapSize="220" face="Verdana-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAll" centerPoint3DX="-53.3" centerPoint3DY="-5.05">
+                  <matrix>
+                    <Matrix a="0.1905517578125" d="0.1905517578125" tx="-53.3" ty="-5.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/ClosedUmbrella_WoodChair_FoilBalloon_Gray" centerPoint3DX="62.8" centerPoint3DY="-14.75">
+                  <matrix>
+                    <Matrix a="0.1844482421875" d="0.1844482421875" tx="62.75" ty="-14.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="-3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" left="16.75" width="110.5" height="59.4" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.858154296875" d="0.858154296875" tx="-2.55" ty="10.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="71.95" y="29.75"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;Temperature of a &#xD;Gas&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="13.35" size="11" bitmapSize="220" face="Verdana-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" left="66.6" width="10.8" height="10.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-70.85" ty="33"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>or</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="10.95" size="9" bitmapSize="180" face="Verdana-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,177 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/AreaBtnsCombined/TC_TButton__Forces&amp;#038Motion" itemID="5af9d536-0000056a" symbolType="button" lastModified="1526324898" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="TC_TButton__Forces&amp;#038Motion" currentFrame="3">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/AreaBtnsCombined/ButtonBackground">
+                  <matrix>
+                    <Matrix a="0.858154296875" d="0.858154296875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="TextAssets/FMButtonText" centerPoint3DY="-64.15">
+                  <matrix>
+                    <Matrix a="0.858154296875" d="0.858154296875" ty="-64.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" left="12.9" width="118.2" height="40.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.858154296875" d="0.858154296875" tx="-107.35" ty="24.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Speed of balls at the &#xD;bottom of ramps&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12.15" size="10" bitmapSize="200" face="Verdana-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/RampSimImage" centerPoint3DX="-43.7" centerPoint3DY="-6.65">
+                  <matrix>
+                    <Matrix a="0.372238159179688" d="0.372238159179688" tx="-91.95" ty="-36.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="234" y="138.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/SaltWaterScenes/CSmall_GlassSphere_SaltWater" centerPoint3DX="57.2" centerPoint3DY="-11.25">
+                  <matrix>
+                    <Matrix a="0.289794921875" d="0.289794921875" tx="68.65" ty="-11.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-29.15" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" left="40.55" width="70" height="36.85" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-14.5" ty="34.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Time for &#xD;objects &#xD;to sink</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="10.95" size="9" bitmapSize="180" face="Verdana-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" left="66.6" width="10.8" height="10.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-54.15" ty="31.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>or</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="10.95" size="9" bitmapSize="180" face="Verdana-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="4.95">
+                        <fill>
+                          <SolidColor color="#0098FF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-1943 -1479|1944 -1479!1944 -1479[2045 -1479 2116 -1408!2116 -1408[2188 -1337 2188 -1236!2188 -1236|2188 1237!2188 1237[2188 1338 2116 1409!2116 1409[2045 1481 1944 1481!1944 1481|-1943 1481!-1943 1481[-2044 1481 -2115 1409!-2115 1409
+[-2187 1338 -2187 1237!-2187 1237|-2187 -1236!-2187 -1236[-2187 -1337 -2115 -1408!-2115 -1408[-2044 -1479 -1943 -1479"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/AreaBtnsCombined/ButtonBackground">
+                  <matrix>
+                    <Matrix a="0.858154296875" d="0.858154296875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="TextAssets/FMButtonText" centerPoint3DY="-64.15">
+                  <matrix>
+                    <Matrix a="0.858154296875" d="0.858154296875" ty="-64.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" left="12.9" width="118.2" height="40.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.858154296875" d="0.858154296875" tx="-107.35" ty="24.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Speed of balls at the &#xD;bottom of ramps&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12.15" size="10" bitmapSize="200" face="Verdana-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/RampSimImage" centerPoint3DX="-43.7" centerPoint3DY="-6.65">
+                  <matrix>
+                    <Matrix a="0.372238159179688" d="0.372238159179688" tx="-91.95" ty="-36.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="234" y="138.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/SaltWaterScenes/CSmall_GlassSphere_SaltWater" centerPoint3DX="57.2" centerPoint3DY="-11.25">
+                  <matrix>
+                    <Matrix a="0.289794921875" d="0.289794921875" tx="68.65" ty="-11.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-29.15" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" left="40.55" width="70" height="36.85" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-14.5" ty="34.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Time for &#xD;objects &#xD;to sink</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="10.95" size="9" bitmapSize="180" face="Verdana-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" left="66.6" width="10.8" height="10.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-54.15" ty="31.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>or</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="10.95" size="9" bitmapSize="180" face="Verdana-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerarrowzerodegrees" itemID="5a25752c-000000ed" lastModified="1512404268">
+  <timeline>
+    <DOMTimeline name="thermometerarrowzerodegrees">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.00189208984375" b="0.0040740966796875" c="-0.0040740966796875" d="0.00189208984375" tx="0.95" ty="-5.35"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-51 -48S1[3 119 18 168!18 168[25 181 32 199!32 199|42 199!42 199|61 67!61 67[76 -38 80 -109!80 -109|89 -184!89 -184[87 -191 87 -199!87 -199|-89 -170!-89 -170|-51 -48"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!38 -53S7[16 -43 -2 -53!-2 -53[-26 -60 -38 -81!-38 -81[-47 -103 -37 -125!-37 -125[-31 -147 -9 -155!-9 -155[13 -169 35 -159!35 -159[56 -151 66 -128!66 -128[76 -107 72 -83!72 -83[61 -64 38 -53"/>
+                    <Edge cubics="!-89 -170(;-73,-128 -62,-87 -51,-48q-89 -170 -51 -48);"/>
+                    <Edge cubics="!-51 -48(;-27,24 -8,96 18,168q-51 -48Q3 119q18 168);"/>
+                    <Edge cubics="!61 67(;70,7 76,-50 80,-109q61 67Q76 -38q80 -109);"/>
+                    <Edge cubics="!80 -109(;85,-133 86,-157 89,-184q80 -109 89 -184);"/>
+                    <Edge cubics="!87 -199(;87,-199 -89,-170 -89,-170q87 -199 -89 -170);"/>
+                    <Edge cubics="!89 -184(;91,-186 87,-195 87,-199q89 -184Q87 -191q87 -199);"/>
+                    <Edge cubics="!66 -128(;75,-114 75,-100 72,-83q66 -128Q76 -107q72 -83);"/>
+                    <Edge cubics="!35 -159(;49,-154 61,-142 66,-128q35 -159Q56 -151q66 -128);"/>
+                    <Edge cubics="!-9 -155(;5,-166 22,-166 35,-159q-9 -155Q13 -169q35 -159);"/>
+                    <Edge cubics="!-37 -125(;-35,-144 -25,-148 -9,-155q-37 -125Q-31 -147q-9 -155);"/>
+                    <Edge cubics="!-38 -81(;-45,-92 -45,-111 -37,-125q-38 -81Q-47 -103q-37 -125);"/>
+                    <Edge cubics="!38 -53(;28,-46 9,-45 -2,-53q38 -53Q16 -43q-2 -53);"/>
+                    <Edge cubics="!72 -83(;62,-72 51,-58 38,-53q72 -83Q61 -64q38 -53);"/>
+                    <Edge cubics="!-2 -53(;-19,-58 -29,-66 -38,-81q-2 -53Q-26 -60q-38 -81);"/>
+                    <Edge cubics="!18 168(;23,176 28,187 32,199q18 168Q25 181q32 199);"/>
+                    <Edge cubics="!42 199(;42,199 32,199 32,199q42 199 32 199);"/>
+                    <Edge cubics="!42 199(;42,199 61,67 61,67q42 199 61 67);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

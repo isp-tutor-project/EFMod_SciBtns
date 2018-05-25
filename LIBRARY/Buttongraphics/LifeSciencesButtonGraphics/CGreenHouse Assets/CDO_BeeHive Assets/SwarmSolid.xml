@@ -1,0 +1,248 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/SwarmSolid" itemID="5a1dc4cb-000008ee" lastModified="1511900363">
+  <timeline>
+    <DOMTimeline name="SwarmSolid">
+      <layers>
+        <DOMLayer name="BeeSolid" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeSolid" selected="true">
+                  <matrix>
+                    <Matrix tx="63.7" ty="28.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BeeSolid" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeSolid" selected="true">
+                  <matrix>
+                    <Matrix tx="70.35" ty="15.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BeeSolid" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeSolid" selected="true">
+                  <matrix>
+                    <Matrix tx="76.4" ty="-0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BeeSolid" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeSolid" selected="true">
+                  <matrix>
+                    <Matrix tx="68.1" ty="2.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BeeSolid" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeSolid" selected="true">
+                  <matrix>
+                    <Matrix tx="47.5" ty="-37.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BeeSolid" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeSolid" selected="true">
+                  <matrix>
+                    <Matrix tx="35.6" ty="-12.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BeeSolid" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeSolid" selected="true">
+                  <matrix>
+                    <Matrix tx="25.45" ty="-5.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BeeSolid" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeSolid" selected="true">
+                  <matrix>
+                    <Matrix tx="-2.15" ty="-2.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BeeSolid" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeSolid" selected="true">
+                  <matrix>
+                    <Matrix a="-1" tx="-2.25" ty="-17.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BeeSolid" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeSolid" selected="true">
+                  <matrix>
+                    <Matrix a="-1" tx="47.3" ty="-2.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BeeSolid" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeSolid" selected="true">
+                  <matrix>
+                    <Matrix a="-1" tx="37.15" ty="17.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BeeSolid" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeSolid" selected="true">
+                  <matrix>
+                    <Matrix a="-1" tx="3.1" ty="36.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BeeSolid" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeSolid" selected="true">
+                  <matrix>
+                    <Matrix a="-1" tx="-73.25" ty="37.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BeeSolid" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeSolid" selected="true">
+                  <matrix>
+                    <Matrix tx="-76.25" ty="3.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BeeSolid" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeSolid" selected="true">
+                  <matrix>
+                    <Matrix tx="-33.8" ty="9.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

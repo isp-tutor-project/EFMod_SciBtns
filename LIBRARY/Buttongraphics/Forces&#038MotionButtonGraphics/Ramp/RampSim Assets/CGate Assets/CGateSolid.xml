@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CGate Assets/CGateSolid" itemID="48bd96e5-0000020b" linkageExportForAS="true" linkageClassName="cmu.woz.rampsim.CGateSolid" sourceFlashFilepath="../EFMod_RQIntro/EFMod_RQModIntro.xfl" sourceLibraryItemHRef="Buttongraphics/Forces&amp;MotionButtonGraphics/Ramp/RampSim Assets/CGate Assets/CGateSolid" sourceLastModified="1273678482" lastModified="1273678482" lastUniqueIdentifier="4" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="CGateSolid">
+      <layers>
+        <DOMLayer name="grab" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CGrab Assets/CGrabSolid" name="Sgrab" selected="true" cacheAsBitmap="true">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-0.998443603515625" d="0" tx="5.3" ty="3.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="door" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CGate Assets/CdoorSolid" name="Sdoor" cacheAsBitmap="true">
+                  <matrix>
+                    <Matrix a="0.998443603515625"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5" y="-25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

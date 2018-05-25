@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerpointernegativetwenty" itemID="5a2574d1-000000e7" lastModified="1512404177">
+  <timeline>
+    <DOMTimeline name="thermometerpointernegativetwenty">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-74 80S1[101 103 153 108!153 108[174 110 202 111!202 111|76 28!76 28[-13 -30 -74 -66!-74 -66|-138 -103!-138 -103[-146 -108 -152 -111!-152 -111|-201 62!-201 62|-74 80"/>
+                    <Edge cubics="!-201 62(;-156,68 -114,75 -74,80q-201 62 -74 80);"/>
+                    <Edge cubics="!-74 80(;1,90 77,103 153,108q-74 80Q101 103q153 108);"/>
+                    <Edge cubics="!76 28(;27,-4 -23,-36 -74,-66q76 28Q-13 -30q-74 -66);"/>
+                    <Edge cubics="!-74 -66(;-95,-78 -115,-91 -138,-103q-74 -66 -138 -103);"/>
+                    <Edge cubics="!-152 -111(;-152,-111 -201,62 -201,62q-152 -111 -201 62);"/>
+                    <Edge cubics="!202 111(;202,111 76,28 76,28q202 111 76 28);"/>
+                    <Edge cubics="!153 108(;168,110 183,110 202,111q153 108Q174 110q202 111);"/>
+                    <Edge cubics="!-138 -103(;-143,-105 -147,-109 -152,-111q-138 -103Q-146 -108q-152 -111);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

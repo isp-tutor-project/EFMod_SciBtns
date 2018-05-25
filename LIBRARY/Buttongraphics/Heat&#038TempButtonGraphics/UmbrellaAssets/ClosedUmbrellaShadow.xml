@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/Heat&amp;#038TempButtonGraphics/UmbrellaAssets/ClosedUmbrellaShadow" itemID="5a37d7fb-0000004b" lastModified="1513609211">
+  <timeline>
+    <DOMTimeline name="ClosedUmbrellaShadow">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3.45">
+                        <fill>
+                          <SolidColor alpha="0.298039215686275"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!1220 -290S4|-1220 290"/>
+                    <Edge cubics="!1220 -290(;1220,-290 -1220,290 -1220,290q1220 -290 -1220 290);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

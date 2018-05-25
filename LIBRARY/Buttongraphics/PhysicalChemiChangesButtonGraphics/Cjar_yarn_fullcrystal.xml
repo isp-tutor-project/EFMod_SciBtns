@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/PhysicalChemiChangesButtonGraphics/Cjar_yarn_fullcrystal" itemID="5a281606-00000093" lastModified="1512576518">
+  <timeline>
+    <DOMTimeline name="Cjar_yarn_fullcrystal">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/PhysicalChemiChangesButtonGraphics/CDOJarAssets/jarnew" selected="true">
+                  <matrix>
+                    <Matrix tx="-12.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/PhysicalChemiChangesButtonGraphics/pencil" selected="true">
+                  <matrix>
+                    <Matrix a="0.905517578125" d="0.905517578125" tx="5.3" ty="-93.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/PhysicalChemiChangesButtonGraphics/CDOJarAssets/yarnwithjar" selected="true">
+                  <matrix>
+                    <Matrix tx="1.4" ty="-16.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/PhysicalChemiChangesButtonGraphics/CCrystal Assets/fullgrowncrystal" selected="true">
+                  <matrix>
+                    <Matrix tx="-0.6" ty="-5.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/PhysicalChemiChangesButtonGraphics/CDOJarAssets/distilledwater" selected="true">
+                  <matrix>
+                    <Matrix tx="-1.4" ty="18.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/PhysicalChemiChangesButtonGraphics/CDOJarAssets/jarhighlights" selected="true">
+                  <matrix>
+                    <Matrix tx="-1.8" ty="20.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

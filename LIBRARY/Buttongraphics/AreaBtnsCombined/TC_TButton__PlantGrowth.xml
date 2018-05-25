@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/AreaBtnsCombined/TC_TButton__PlantGrowth" itemID="5af9d522-00000568" symbolType="button" lastModified="1526324937" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="TC_TButton__PlantGrowth" currentFrame="3">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/TC_TObject__PlantGrowth">
+                  <transformationPoint>
+                    <Point y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="4.95">
+                        <fill>
+                          <SolidColor color="#0098FF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-1943 -1468|1944 -1468!1944 -1468[2045 -1468 2116 -1397!2116 -1397[2187 -1325 2187 -1224!2187 -1224|2187 1248!2187 1248[2187 1349 2116 1421!2116 1421[2045 1492 1944 1492!1944 1492|-1943 1492!-1943 1492[-2044 1492 -2116 1421!-2116 1421
+[-2187 1349 -2187 1248!-2187 1248|-2187 -1224!-2187 -1224[-2187 -1325 -2116 -1397!-2116 -1397[-2044 -1468 -1943 -1468"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/TC_TObject__PlantGrowth" centerPoint3DY="0.6">
+                  <transformationPoint>
+                    <Point y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

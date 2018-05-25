@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CThermometer Assets/CDO_BulbHot" itemID="5a1db7da-000004e6" lastModified="1511897050">
+  <timeline>
+    <DOMTimeline name="CDO_BulbHot">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="5.1" objectHeight="28.9" x="-15.25" y="-16.35" selected="true" lockFlag="true" topLeftRadius="2" topRightRadius="2" bottomLeftRadius="2" bottomRightRadius="2">
+                  <matrix>
+                    <Matrix a="0.965927124023438" b="0.2587890625" c="-0.2587890625" d="0.965927124023438" tx="11.8" ty="5.15"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FF0000" alpha="0.549019607843137"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="0.15">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

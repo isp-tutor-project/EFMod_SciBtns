@@ -1,0 +1,80 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/Heat&amp;#038TempButtonGraphics/ClosedUmbrella_WoodChair_FoilBalloon_Gray" itemID="5a4d1c51-000006e2" lastModified="1515002961">
+  <timeline>
+    <DOMTimeline name="ClosedUmbrella_WoodChair_FoilBalloon_Gray">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/Background Assets/BackgroundHill" selected="true">
+                  <matrix>
+                    <Matrix tx="6.65" ty="66.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/Background Assets/Sun" selected="true">
+                  <matrix>
+                    <Matrix tx="161.95" ty="-137.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/Chairs/CWoodChair" selected="true">
+                  <matrix>
+                    <Matrix tx="-48" ty="112.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="-0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/Chairs/WoodChair Assets/WoodChairShadow" selected="true">
+                  <matrix>
+                    <Matrix tx="-111" ty="176.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/UmbrellaAssets/CClosedUmbrellawithShadow" selected="true">
+                  <matrix>
+                    <Matrix tx="-165.5" ty="11.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.6" y="0.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/Balloon Assets/CFoilBalloonGray" selected="true">
+                  <matrix>
+                    <Matrix tx="-6.85" ty="-15.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/Temperature Assets/CTemperatureReader" selected="true">
+                  <matrix>
+                    <Matrix tx="18" ty="1.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/Temperature Assets/TemperatureGaugeNumbers" selected="true">
+                  <matrix>
+                    <Matrix tx="19" ty="5.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

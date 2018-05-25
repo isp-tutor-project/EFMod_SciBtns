@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CRamp Assets/CangleCueOutline" itemID="48bac652-000001e7" linkageExportForAS="true" linkageClassName="CangleCueOutline" sourceFlashFilepath="../EFMod_RQIntro/EFMod_RQModIntro.xfl" sourceLibraryItemHRef="Buttongraphics/Forces&amp;MotionButtonGraphics/Ramp/RampSim Assets/CRamp Assets/CangleCueOutline" sourceLastModified="1220200081" lastModified="1220200081" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="CangleCueOutline">
+      <layers>
+        <DOMLayer name="Angle Layer" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="136" objectHeight="136" x="309" y="-180" startAngle="180" endAngle="271">
+                  <matrix>
+                    <Matrix a="2.25358581542969" b="-0.01043701171875" c="0.01043701171875" d="2.25358581542969" tx="-604" ty="395.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="376.9" y="-111.2"/>
+                  </transformationPoint>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

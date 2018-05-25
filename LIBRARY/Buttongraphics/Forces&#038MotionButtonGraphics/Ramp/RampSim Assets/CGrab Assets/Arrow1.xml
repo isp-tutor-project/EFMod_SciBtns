@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CGrab Assets/Arrow1" itemID="48bd96e5-000001ed" sourceFlashFilepath="../EFMod_RQIntro/EFMod_RQModIntro.xfl" sourceLibraryItemHRef="Buttongraphics/Forces&amp;MotionButtonGraphics/Ramp/RampSim Assets/CGrab Assets/Arrow1" sourceLastModified="1226433252" symbolType="graphic" lastModified="1226433252" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="Arrow1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-525 240|0 -239!0 -239|525 240!525 240/-525 240"/>
+                    <Edge cubics="!-525 240(;-525,240 0,-239 0,-239q-525 240 0 -239);"/>
+                    <Edge cubics="!525 240(;525,240 -525,240 -525,240q525 240 -525 240);"/>
+                    <Edge cubics="!0 -239(;0,-239 525,240 525,240q0 -239 525 240);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

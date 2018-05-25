@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/AreaBtnsCombined/TC_TButton__PhysicalChemicalChanges" itemID="5af9d518-00000567" symbolType="button" lastModified="1526324521" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="TC_TButton__PhysicalChemicalChanges" currentFrame="3">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/PhysicalChemiChangesButtonGraphics/TC_TObject__PhysicalChemicalChanges">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor color="#0098FF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-1943 -1524|1944 -1524!1944 -1524[2045 -1524 2116 -1454!2116 -1454[2188 -1386 2188 -1287!2188 -1287|2188 1216!2188 1216[2188 1314 2116 1383!2116 1383[2045 1452 1944 1452!1944 1452|-1943 1452!-1943 1452[-2044 1452 -2115 1383!-2115 1383
+[-2187 1314 -2187 1216!-2187 1216|-2187 -1287!-2187 -1287[-2187 -1386 -2115 -1454!-2115 -1454[-2044 -1524 -1943 -1524"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/PhysicalChemiChangesButtonGraphics/TC_TObject__PhysicalChemicalChanges">
+                  <matrix>
+                    <Matrix d="0.994125366210938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

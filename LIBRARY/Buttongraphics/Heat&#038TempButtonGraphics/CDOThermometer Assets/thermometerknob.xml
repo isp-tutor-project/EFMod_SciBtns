@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerknob" itemID="5a1c7a55-0000002e" lastModified="1511815766">
+  <timeline>
+    <DOMTimeline name="thermometerknob">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0045928955078125" d="0.0045928955078125" tx="-0.05"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!58 0S6[58 24 40 40!40 40[24 58 1 58!1 58[-24 58 -42 40!-42 40[-58 24 -58 0!-58 0[-58 -24 -42 -42!-42 -42[-24 -58 1 -58!1 -58[24 -58 40 -42!40 -42[58 -24 58 0"/>
+                    <Edge cubics="!40 -42(;52,-30 58,-15 58,0q40 -42Q58 -24q58 0);"/>
+                    <Edge cubics="!1 -58(;16,-58 29,-52 40,-42q1 -58Q24 -58q40 -42);"/>
+                    <Edge cubics="!-58 0(;-58,-15 -53,-30 -42,-42q-58 0Q-58 -24q-42 -42);"/>
+                    <Edge cubics="!40 40(;29,52 16,58 1,58q40 40Q24 58q1 58);"/>
+                    <Edge cubics="!58 0(;58,15 52,30 40,40q58 0Q58 24q40 40);"/>
+                    <Edge cubics="!-42 40(;-53,30 -58,15 -58,0q-42 40Q-58 24q-58 0);"/>
+                    <Edge cubics="!1 58(;-16,58 -30,52 -42,40q1 58Q-24 58q-42 40);"/>
+                    <Edge cubics="!-42 -42(;-30,-52 -16,-58 1,-58q-42 -42Q-24 -58q1 -58);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/Heat&amp;#038TempButtonGraphics/Chairs/CWoodChair" itemID="5a34366f-00000022" lastModified="1513371247">
+  <timeline>
+    <DOMTimeline name="CWoodChair">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/Chairs/WoodChair Assets/CWoodChairOutline" selected="true">
+                  <matrix>
+                    <Matrix tx="-0.3" ty="-2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/Chairs/WoodChair Assets/WoodChairColor" selected="true">
+                  <matrix>
+                    <Matrix tx="0.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

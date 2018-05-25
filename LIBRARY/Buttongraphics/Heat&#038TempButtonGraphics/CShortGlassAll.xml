@@ -1,0 +1,120 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAll" itemID="5a26c53b-0000007f" lastModified="1512490299">
+  <timeline>
+    <DOMTimeline name="CShortGlassAll">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/table">
+                  <matrix>
+                    <Matrix ty="101.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerwithnumbers">
+                  <matrix>
+                    <Matrix tx="-63.75" ty="-112.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerarrowzerodegrees">
+                  <matrix>
+                    <Matrix tx="-63.85" ty="-133.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerpointernegativetwenty">
+                  <matrix>
+                    <Matrix tx="-58.55" ty="-138.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerknob">
+                  <matrix>
+                    <Matrix tx="-63.45" ty="-138.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CIceCubeContainer">
+                  <matrix>
+                    <Matrix tx="-141.65" ty="-1.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CIceCubeContainer Assets/icecubecontainer">
+                  <matrix>
+                    <Matrix tx="-141.65" ty="11.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CIceCubeContainer Assets/icecubesincontainer">
+                  <matrix>
+                    <Matrix tx="-140.7" ty="-82.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAssets/Shortglasssteamonly">
+                  <matrix>
+                    <Matrix tx="138.2" ty="19.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAssets/Shortglasspatternonly">
+                  <matrix>
+                    <Matrix tx="136.75" ty="83.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAssets/Shortglass">
+                  <matrix>
+                    <Matrix tx="136.75" ty="81.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAssets/Shortglassicecube">
+                  <matrix>
+                    <Matrix tx="135.15" ty="67.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAssets/Shortglasswater">
+                  <matrix>
+                    <Matrix tx="135.85" ty="95.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

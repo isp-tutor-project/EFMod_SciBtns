@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/LifeSciencesButtonGraphics/CFishTankRoomTemp" itemID="5a216744-00000122" lastModified="1514997435">
+  <timeline>
+    <DOMTimeline name="CFishTankRoomTemp">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CFishTankAssets/squarefishtank" selected="true">
+                  <matrix>
+                    <Matrix a="1.4176025390625" d="1.4176025390625" tx="-0.4" ty="2.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CFishTankAssets/squaredistilledwater" selected="true">
+                  <matrix>
+                    <Matrix a="1.4176025390625" d="1.4176025390625" tx="-1.05" ty="28.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CFishTankAssets/squaretintedfishtanklid" selected="true">
+                  <matrix>
+                    <Matrix a="1.4176025390625" d="1.4176025390625" ty="-101.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CThermometerRoomTemp" selected="true">
+                  <matrix>
+                    <Matrix a="1.4176025390625" d="1.4176025390625" tx="42.2" ty="29.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

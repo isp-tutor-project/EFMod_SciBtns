@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CAngleCue" itemID="48bab70d-000001ba" linkageExportForAS="true" linkageClassName="cmu.woz.rampsim.CAngleCue" sourceFlashFilepath="../EFMod_RQIntro/EFMod_RQModIntro.xfl" sourceLibraryItemHRef="Buttongraphics/Forces&amp;MotionButtonGraphics/Ramp/RampSim Assets/CAngleCue" sourceLastModified="1220206735" lastModified="1220206735" lastUniqueIdentifier="6" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="CAngleCue">
+      <layers>
+        <DOMLayer name="Angle Mask" color="#4FFF4F" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CRamp Assets/CangleMask" name="SangleMask">
+                  <matrix>
+                    <Matrix a="0.7012939453125" b="0.452880859375" c="-0.452880859375" d="0.7012939453125" tx="247.1" ty="138.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.4" y="0.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="outline" color="#FFFF4F" parentLayerIndex="0" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CRamp Assets/CangleCueOutline" name="Soutline" selected="true">
+                  <transformationPoint>
+                    <Point x="168.8" y="63.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="solid" color="#9933CC" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CRamp Assets/CangleCueSolid" name="Ssolid" selected="true">
+                  <matrix>
+                    <Matrix tx="91.2" ty="-13.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="77.6" y="77.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/sodatext" itemID="59f72a10-00000012" lastModified="1509370384">
+  <timeline>
+    <DOMTimeline name="sodatext">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="40.75" height="24" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-20.35" ty="-12"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Soda</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="24" size="24" bitmapSize="480" face="TektonPro-BoldCond" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
