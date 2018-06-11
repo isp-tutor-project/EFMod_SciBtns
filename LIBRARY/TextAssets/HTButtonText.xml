@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TextAssets/HTButtonText" itemID="5a4d03ab-00000018" lastModified="1514996651">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TextAssets/HTButtonText" itemID="5a4d03ab-00000018" lastModified="1527878937">
   <timeline>
     <DOMTimeline name="HTButtonText">
       <layers>
@@ -6,19 +6,19 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText selected="true" fontRenderingMode="standard" width="164.5" height="17.05" autoExpand="true" isSelectable="false">
+                <DOMDynamicText name="HeatTemp" fontRenderingMode="standard" left="-55.3" width="248.9" height="20.7" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-82.25" ty="-8.5"/>
+                    <Matrix tx="-72.35" ty="-8.5"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>Heat &amp; Temperature </characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" lineHeight="17.05" size="14" bitmapSize="280" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="20.7" size="16" bitmapSize="320" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
+                </DOMDynamicText>
               </elements>
             </DOMFrame>
           </frames>

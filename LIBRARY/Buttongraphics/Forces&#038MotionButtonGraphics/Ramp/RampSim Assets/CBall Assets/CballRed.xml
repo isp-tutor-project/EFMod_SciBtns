@@ -53,6 +53,14 @@
                   <edges>
                     <Edge strokeStyle="3" edges="!690 345[690 486 593 586!593 586[591 587 590 589!590 589|589 589!589 589[580 598 571 606!571 606[475 690 345 690!345 690[202 690 101 589!101 589[0 488 0 345!0 345[0 311 6 280!6 280[22 190 84 119!84 119[92 110 101 101!101 101|102 101!102
  101[202 0 345 0!345 0[488 0 589 101!589 101[690 202 690 345"/>
+                    <Edge fillStyle0="1" strokeStyle="2" edges="
+!345.5 345|334 334"/>
+                    <Edge strokeStyle="2" edges="
+!334 334|101 101"/>
+                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="
+!345.5 345|345 345"/>
+                    <Edge strokeStyle="2" edges="
+!345 345|101 589"/>
                     <Edge fillStyle1="2" strokeStyle="1" edges="
 !356.5 356.5|345 345"/>
                     <Edge fillStyle1="1" strokeStyle="1" edges="
@@ -61,14 +69,6 @@
 !581 581[#1D6.8D #1D6.6F 360 360!360 360[#166.2C #166.24 356.5 356.5"/>
                     <Edge fillStyle0="2" strokeStyle="2" edges="
 !356.5 356.5|345.5 345"/>
-                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="
-!345.5 345|345 345"/>
-                    <Edge strokeStyle="2" edges="
-!345 345|101 589"/>
-                    <Edge fillStyle0="1" strokeStyle="2" edges="
-!345.5 345|334 334"/>
-                    <Edge strokeStyle="2" edges="
-!334 334|101 101"/>
                     <Edge strokeStyle="1" edges="
 !589 589|581 581"/>
                     <Edge strokeStyle="2" edges="

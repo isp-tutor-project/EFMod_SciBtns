@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TButton__FlowerReproduction" itemID="5af9e542-00000687" symbolType="button" lastModified="1526326594" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TButton__FlowerReproduction" itemID="5af9e542-00000687" symbolType="button" lastModified="1527880384" lastUniqueIdentifier="1">
   <timeline>
-    <DOMTimeline name="TC_TButton__FlowerReproduction" currentFrame="3">
+    <DOMTimeline name="TC_TButton__FlowerReproduction">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
@@ -11,7 +11,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMStaticText fontRenderingMode="standard" left="-9.65" width="163.3" height="17.05" autoExpand="true" isSelectable="false">
+                <DOMDynamicText name="topic_flower" fontRenderingMode="standard" left="0.8" width="142.4" height="20.7" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix tx="-71.15" ty="-72"/>
                   </matrix>
@@ -19,11 +19,11 @@
                     <DOMTextRun>
                       <characters>Flower Reproduction</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.05" size="14" bitmapSize="280" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="20.7" size="16" bitmapSize="320" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
+                </DOMDynamicText>
                 <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/GreenhouseButtonGraphic">
                   <matrix>
                     <Matrix tx="-2.25" ty="6.8"/>

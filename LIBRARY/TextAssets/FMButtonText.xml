@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TextAssets/FMButtonText" itemID="5a4d0407-00000025" lastModified="1514996743">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TextAssets/FMButtonText" itemID="5a4d0407-00000025" lastModified="1527879118">
   <timeline>
     <DOMTimeline name="FMButtonText">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText selected="true" fontRenderingMode="standard" width="126.65" height="17.05" autoExpand="true" isSelectable="false">
+                <DOMDynamicText name="ForcesMotion" fontRenderingMode="standard" left="-61.95" width="250.5" height="20.7" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix tx="-63.3" ty="-8.5"/>
                   </matrix>
@@ -14,11 +14,11 @@
                     <DOMTextRun>
                       <characters>Forces &amp; Motion</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" lineHeight="17.05" size="14" bitmapSize="280" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="20.7" size="16" bitmapSize="320" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
+                </DOMDynamicText>
               </elements>
             </DOMFrame>
           </frames>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/PhysicalChemiChangesButtonGraphics/TC_TObject__PhysicalChemicalChanges" itemID="5af9d4fb-00000563" lastModified="1526322427">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/PhysicalChemiChangesButtonGraphics/TC_TObject__PhysicalChemicalChanges" itemID="5af9d4fb-00000563" lastModified="1527878692">
   <timeline>
     <DOMTimeline name="TC_TObject__PhysicalChemicalChanges">
       <layers>
@@ -30,20 +30,20 @@
                     <Point x="46.8" y="0.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMStaticText fontRenderingMode="standard" left="-0.1" width="140.8" height="40.45" isSelectable="false">
+                <DOMDynamicText name="crystalgrowth" fontRenderingMode="standard" left="-0.1" width="134.2" height="54.55" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix a="0.858154296875" d="0.858154296875" tx="-104.25" ty="30.85"/>
+                    <Matrix a="0.858154296875" d="0.858154296875" tx="-104.25" ty="27.35"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>&#xD;Crystal Growth&#xD;</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12.15" size="10" bitmapSize="200" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="16.85" size="13" bitmapSize="280" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="233.1" height="36.1" isSelectable="false">
+                </DOMDynamicText>
+                <DOMDynamicText name="PhysicalChemChanges" fontRenderingMode="standard" width="233.1" height="43.4" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix a="0.858154296875" d="0.858154296875" tx="-96.95" ty="-74.95"/>
                   </matrix>
@@ -51,38 +51,38 @@
                     <DOMTextRun>
                       <characters>Physical &amp; Chemical&#xD; Changes </characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.05" size="14" bitmapSize="280" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0" lineHeight="20.7" size="16" bitmapSize="320" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" left="55.5" width="53.2" height="23.9" autoExpand="true" isSelectable="false">
+                </DOMDynamicText>
+                <DOMDynamicText name="sodaminttop" fontRenderingMode="standard" left="55.3" width="53.6" height="33" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-30.9" ty="50.75"/>
+                    <Matrix tx="-28.7" ty="48.55"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>Soda/Mint&#xD; </characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="10.95" size="9" bitmapSize="180" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="15.5" bitmapSize="240" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" left="47.3" width="49.4" height="10.95" autoExpand="true" isSelectable="false">
+                </DOMDynamicText>
+                <DOMDynamicText name="sodamint" fontRenderingMode="standard" left="47.1" width="49.8" height="16.85" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-19.9" ty="59.7"/>
+                    <Matrix tx="-18.6" ty="58.1"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>Reactions</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="10.95" size="9" bitmapSize="180" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="15.5" bitmapSize="240" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" left="66.6" width="10.8" height="10.95" autoExpand="true" isSelectable="false">
+                </DOMDynamicText>
+                <DOMDynamicText name="S_or" fontRenderingMode="standard" left="65.85" width="11.55" height="16.85" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix tx="-66.6" ty="45"/>
                   </matrix>
@@ -90,11 +90,11 @@
                     <DOMTextRun>
                       <characters>or</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="10.95" size="9" bitmapSize="180" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="12.95" size="10" bitmapSize="200" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
+                </DOMDynamicText>
               </elements>
             </DOMFrame>
           </frames>

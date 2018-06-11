@@ -29,8 +29,8 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge strokeStyle="2" edges="!477 35[480 88 436.5 190"/>
                     <Edge fillStyle0="1" edges="!436.5 190|477 35!477 35[#1E1.76 #10.EA 485 0"/>
+                    <Edge strokeStyle="2" edges="!477 35[480 88 436.5 190"/>
                     <Edge fillStyle0="1" strokeStyle="1" edges="!485 0/-5415 0!-5415 0/-5415 190!-5415 190/436.5 190"/>
                     <Edge cubics="!7070 190(;7070,190 7070,40 7070,40q7070 190 7070 40);"/>
                     <Edge cubics="!7070 40(;7070,40 7070,-157 7070,-157q7070 40 7070 -157);"/>

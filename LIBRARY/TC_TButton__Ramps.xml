@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TButton__Ramps" itemID="5af9e517-00000682" symbolType="button" lastModified="1526326551">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TButton__Ramps" itemID="5af9e517-00000682" symbolType="button" lastModified="1527880259">
   <timeline>
     <DOMTimeline name="TC_TButton__Ramps">
       <layers>
@@ -6,25 +6,25 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="ButtonBackgroundAssets/RampTopicButton" selected="true" symbolType="button">
+                <DOMSymbolInstance libraryItemName="ButtonBackgroundAssets/RampTopicButton" symbolType="button">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMStaticText selected="true" fontRenderingMode="standard" left="-13.65" width="171.3" height="36.1" autoExpand="true" isSelectable="false">
+                <DOMDynamicText name="topic_speedballs" fontRenderingMode="standard" left="-3" width="150" height="41.4" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-72.25" ty="-69"/>
+                    <Matrix tx="-72.25" ty="-72.9"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>Speed balls roll at the&#xD; bottom of ramps </characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.05" size="14" bitmapSize="280" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0" lineHeight="20.7" size="16" bitmapSize="320" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/RampSimImage" selected="true" centerPoint3DX="-1.5" centerPoint3DY="13.25">
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/RampSimImage" centerPoint3DX="-1.5" centerPoint3DY="13.25">
                   <matrix>
                     <Matrix a="0.55377197265625" d="0.55377197265625" tx="-73.25" ty="-30.9"/>
                   </matrix>

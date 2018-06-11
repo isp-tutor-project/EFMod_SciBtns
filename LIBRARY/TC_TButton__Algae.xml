@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TButton__Algae" itemID="5af9e528-00000683" symbolType="button" lastModified="1526326568" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TButton__Algae" itemID="5af9e528-00000683" symbolType="button" lastModified="1527880424" lastUniqueIdentifier="2">
   <timeline>
-    <DOMTimeline name="TC_TButton__Algae" currentFrame="3">
+    <DOMTimeline name="TC_TButton__Algae">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
@@ -11,7 +11,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMStaticText fontRenderingMode="standard" left="18.6" width="106.8" height="17.05" autoExpand="true" isSelectable="false">
+                <DOMDynamicText name="topic_algae" fontRenderingMode="standard" left="-34.8" width="212.1" height="20.7" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix tx="-72" ty="-72"/>
                   </matrix>
@@ -19,11 +19,11 @@
                     <DOMTextRun>
                       <characters>Algae Growth</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.05" size="14" bitmapSize="280" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="20.7" size="16" bitmapSize="320" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
+                </DOMDynamicText>
                 <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CFishTankRoomTemp">
                   <matrix>
                     <Matrix a="0.3883056640625" d="0.368026733398438" tx="-4" ty="4.7"/>

@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TButton__CrystalGrowth" itemID="5af9e536-00000685" symbolType="button" lastModified="1526326582" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TButton__CrystalGrowth" itemID="5af9e536-00000685" symbolType="button" lastModified="1527879955" lastUniqueIdentifier="2">
   <timeline>
-    <DOMTimeline name="TC_TButton__CrystalGrowth" currentFrame="3">
+    <DOMTimeline name="TC_TButton__CrystalGrowth">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
@@ -14,7 +14,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMStaticText fontRenderingMode="standard" left="13.15" width="117.7" height="17.05" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" left="25.05" width="93.9" height="19.4" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="-68.3" ty="-72"/>
                   </matrix>
@@ -22,7 +22,7 @@
                     <DOMTextRun>
                       <characters>Crystal Growth</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.05" size="14" bitmapSize="280" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="19.4" size="15" bitmapSize="300" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

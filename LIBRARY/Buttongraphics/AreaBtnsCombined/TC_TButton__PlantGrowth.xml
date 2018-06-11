@@ -1,12 +1,12 @@
 <DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/AreaBtnsCombined/TC_TButton__PlantGrowth" itemID="5af9d522-00000568" symbolType="button" lastModified="1526324937" lastUniqueIdentifier="1">
   <timeline>
-    <DOMTimeline name="TC_TButton__PlantGrowth" currentFrame="3">
+    <DOMTimeline name="TC_TButton__PlantGrowth">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" duration="3" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/TC_TObject__PlantGrowth">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/TC_TObject__PlantGrowth" selected="true">
                   <transformationPoint>
                     <Point y="0.3"/>
                   </transformationPoint>

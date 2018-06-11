@@ -32,23 +32,23 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle0="2" strokeStyle="1" edges="!18 -4[11 -5 3 -5!28 0[27 -1 26 -1!26 -1[22 -3 18 -4!3 21[7 21 11 20"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!28 0[27 -1 26 -1!26 -1[22 -3 18 -4!18 -4[11 -5 3 -5!11 20[12 20 13 20!13 20[16 20 20 19!20 19[23 18 26 17!26 17[35 13 35 8!35 8[35 3 28 0"/>
                     <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!28 0|20 19"/>
-                    <Edge fillStyle0="2" strokeStyle="1" edges="!20 19[23 18 26 17!26 17[35 13 35 8!35 8[35 3 28 0!11 20[12 20 13 20!13 20[16 20 20 19"/>
-                    <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!18 -4|11 20!3 -5|3 21"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!3 21[7 21 11 20"/>
+                    <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!3 -5|3 21!18 -4|11 20"/>
                     <Edge fillStyle0="1" strokeStyle="1" edges="!-3 -6[-2.96875 -7.09375 -2 -10!-2 -10[-2 -14 -2 -21!-2 -21[-2 -28 -2 -32!-2 -32|-3 -35!-3 -35|-3 -32!-3 -32[-3 -28 -3 -21!-3 -21[-3 -14 -3 -10!-3 -10[-3 #FFFFF8.EB -3 -6"/>
+                    <Edge fillStyle0="2" edges="!-3 -6|-4 -7!-4 -7[-5 -8 -7 -9!-7 -9[-9 -10 -10 -10!-10 -10[-14 -11 -17 -11!-17 -11[-21 -11 -23 -10!-23 -10[-27 -9 -30 -7!-30 -7[-32 -5 -33 -4!-33 -4|-33 -3"/>
                     <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!-3 -6|-10 -10!-10 -10|-23 -10!-23 -10|-33 -3"/>
                     <Edge fillStyle0="2" strokeStyle="1" edges="!-33 -3|-34 -3!-34 -3[-35 0 -35 3!-35 3|-35 4"/>
                     <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!-35 4|-30 16"/>
                     <Edge fillStyle0="2" strokeStyle="1" edges="!-30 16[-27 18 -23 20"/>
-                    <Edge fillStyle0="2" edges="!-3 -6|-4 -7!-4 -7[-5 -8 -7 -9!-7 -9[-9 -10 -10 -10!-10 -10[-14 -11 -17 -11!-17 -11[-21 -11 -23 -10!-23 -10[-27 -9 -30 -7!-30 -7[-32 -5 -33 -4!-33 -4|-33 -3"/>
-                    <Edge fillStyle0="2" strokeStyle="1" edges="!-3 -5|-3 -6"/>
                     <Edge fillStyle0="2" edges="!-2 -5|-3 -5"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!-3 -5|-3 -6"/>
                     <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!-10 20[-6 15 -4 11!-4 11[0 5 -3 3!-3 3[-4 2 -9 7!-9 7|-10 8!-10 8|-11 9!-11 9|-11 10!-11 10[-15 13 -20 17!-20 17|-22 19!-22 19|-22 20!-22 20|-23 20"/>
                     <Edge fillStyle0="1" strokeStyle="1" edges="!-23 20[-29 25 -32 30!-32 30[-36 35 -35 36!-35 36[-34 37 -28 34!-28 34[-22 30 -15 23!-15 23[-12 22 -10 20"/>
                     <Edge fillStyle0="2" edges="!-35 4|-35 5!-35 5[-35 11 -30 16"/>
                     <Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="!-3 -5|-10 8"/>
-                    <Edge fillStyle0="2" strokeStyle="1" edges="!3 -5[1 -5 -2 -5!-10 20[-4 21 3 21"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!-10 20[-4 21 3 21!3 -5[1 -5 -2 -5"/>
                   </edges>
                 </DOMShape>
               </elements>

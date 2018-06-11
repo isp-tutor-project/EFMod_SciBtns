@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TButton__SodaMintReaction" itemID="5af9e4fa-0000067f" symbolType="button" lastModified="1526326522" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TButton__SodaMintReaction" itemID="5af9e4fa-0000067f" symbolType="button" lastModified="1527879979" lastUniqueIdentifier="2">
   <timeline>
-    <DOMTimeline name="TC_TButton__SodaMintReaction" currentFrame="3">
+    <DOMTimeline name="TC_TButton__SodaMintReaction">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
@@ -22,7 +22,7 @@
                     <Point x="-28.5" y="-74.9"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMStaticText fontRenderingMode="standard" left="-10.1" width="164.2" height="17.05" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" left="1.45" width="141.1" height="20.7" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="-71.65" ty="-72.5"/>
                   </matrix>
@@ -30,7 +30,7 @@
                     <DOMTextRun>
                       <characters>Soda/Mint Reactions</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.05" size="14" bitmapSize="280" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="20.7" size="16" bitmapSize="320" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

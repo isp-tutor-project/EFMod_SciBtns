@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TScene__AreasofScienceButtons" itemID="5af9d594-00000610" lastModified="1527252639">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TScene__AreasofScienceButtons" itemID="5af9d594-00000610" lastModified="1527878457">
   <timeline>
     <DOMTimeline name="TC_TScene__AreasofScienceButtons">
       <layers>
@@ -8,15 +8,15 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Buttongraphics/AreaBtnsCombined/TC_TButton__PhysicalChemicalChanges" symbolType="button">
                   <matrix>
-                    <Matrix a="2.87498474121094" d="2.87498474121094" tx="-390.4" ty="-164.55"/>
+                    <Matrix a="2.87498474121094" d="2.87498474121094" tx="-390.4" ty="-152.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/AreaBtnsCombined/TC_TButton__PlantGrowth" symbolType="button">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/AreaBtnsCombined/TC_TButton__PlantGrowth" selected="true" symbolType="button">
                   <matrix>
-                    <Matrix a="2.87498474121094" d="2.87498474121094" tx="316.95" ty="288.1"/>
+                    <Matrix a="2.87498474121094" d="2.87498474121094" tx="316.95" ty="300.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.05"/>
@@ -24,7 +24,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Buttongraphics/AreaBtnsCombined/TC_TButton__Forces&amp;#038Motion" symbolType="button">
                   <matrix>
-                    <Matrix a="2.87498474121094" d="2.87498474121094" tx="-390.4" ty="291.95"/>
+                    <Matrix a="2.87498474121094" d="2.87498474121094" tx="-390.4" ty="303.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="0.05"/>
@@ -32,25 +32,25 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Buttongraphics/AreaBtnsCombined/TC_TButton__Heat&amp;#038Temp" symbolType="button">
                   <matrix>
-                    <Matrix a="2.87498474121094" d="2.87498474121094" tx="317.55" ty="-157.75"/>
+                    <Matrix a="2.87498474121094" d="2.87498474121094" tx="317.55" ty="-145.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMStaticText fontRenderingMode="standard" left="-801.85" width="1840.85" height="109.4" isSelectable="false">
+                <DOMDynamicText name="areasofscience" fontRenderingMode="standard" left="-801.85" width="1842.65" height="129.4" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-118.55" ty="-502.65"/>
+                    <Matrix tx="-118.55" ty="-498.65"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>Areas of Science </characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="109.4" size="90" bitmapSize="1800" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="129.4" size="100" bitmapSize="2000" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
+                </DOMDynamicText>
               </elements>
             </DOMFrame>
           </frames>

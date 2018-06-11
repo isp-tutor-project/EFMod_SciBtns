@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TButton__Sinking" itemID="5af9e504-00000680" symbolType="button" lastModified="1526326532" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TButton__Sinking" itemID="5af9e504-00000680" symbolType="button" lastModified="1527880302" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="TC_TButton__Sinking">
       <layers>
@@ -11,7 +11,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMStaticText fontRenderingMode="standard" left="-20.65" width="185.3" height="17.05" autoExpand="true" isSelectable="false">
+                <DOMDynamicText name="topic_sinking" fontRenderingMode="standard" left="-38.3" width="212.1" height="20.7" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix tx="-68.5" ty="-70"/>
                   </matrix>
@@ -19,12 +19,12 @@
                     <DOMTextRun>
                       <characters>Time for objects to sink</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.05" size="14" bitmapSize="280" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="20.7" size="16" bitmapSize="320" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/SaltWaterScenes/CSmall_GlassSphere_SaltWater" selected="true">
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/SaltWaterScenes/CSmall_GlassSphere_SaltWater">
                   <matrix>
                     <Matrix a="0.39385986328125" d="0.372314453125" tx="8.95" ty="7.5"/>
                   </matrix>

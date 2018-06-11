@@ -62,8 +62,8 @@
           <Include href="ButtonBackgroundAssets/SodaMintReactionButtonBackground.xml" loadImmediate="false" itemID="5a4e4c25-0000078c" lastModified="1515081040"/>
           <Include href="ButtonBackgroundAssets/SodaReactionTopicButtonBackground.xml" loadImmediate="false" itemID="5a4e4d50-000007af" lastModified="1515081040"/>
           <Include href="Buttongraphics/AreaBtnsCombined/ButtonBackground.xml" loadImmediate="false" itemID="5a4d0266-00000005" lastModified="1514996326"/>
-          <Include href="Buttongraphics/AreaBtnsCombined/TC_TButton__Forces&amp;#038Motion.xml" itemIcon="0" loadImmediate="false" itemID="5af9d536-0000056a" lastModified="1526324898"/>
-          <Include href="Buttongraphics/AreaBtnsCombined/TC_TButton__Heat&amp;#038Temp.xml" itemIcon="0" loadImmediate="false" itemID="5af9d52b-00000569" lastModified="1526324866"/>
+          <Include href="Buttongraphics/AreaBtnsCombined/TC_TButton__Forces&amp;#038Motion.xml" itemIcon="0" loadImmediate="false" itemID="5af9d536-0000056a" lastModified="1527879209"/>
+          <Include href="Buttongraphics/AreaBtnsCombined/TC_TButton__Heat&amp;#038Temp.xml" itemIcon="0" loadImmediate="false" itemID="5af9d52b-00000569" lastModified="1527879033"/>
           <Include href="Buttongraphics/AreaBtnsCombined/TC_TButton__PhysicalChemicalChanges.xml" itemIcon="0" loadImmediate="false" itemID="5af9d518-00000567" lastModified="1526324521"/>
           <Include href="Buttongraphics/AreaBtnsCombined/TC_TButton__PlantGrowth.xml" itemIcon="0" loadImmediate="false" itemID="5af9d522-00000568" lastModified="1526324937"/>
           <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CCylinder.xml" loadImmediate="false" itemID="5a284914-00000046" lastModified="1512589588"/>
@@ -157,7 +157,7 @@
           <Include href="Buttongraphics/LifeSciencesButtonGraphics/CThermometer Assets/squarethermometernumbers.xml" loadImmediate="false" itemID="5a1c51e8-00000012" lastModified="1511805416"/>
           <Include href="Buttongraphics/LifeSciencesButtonGraphics/CThermometerRoomTemp.xml" loadImmediate="false" itemID="5a2164f9-000000b8" lastModified="1512137977"/>
           <Include href="Buttongraphics/LifeSciencesButtonGraphics/GreenhouseButtonGraphic.xml" loadImmediate="false" itemID="5a4d08bd-00000213" lastModified="1514997949"/>
-          <Include href="Buttongraphics/LifeSciencesButtonGraphics/TC_TObject__PlantGrowth.xml" loadImmediate="false" itemID="5af9d504-00000564" lastModified="1526322436"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/TC_TObject__PlantGrowth.xml" loadImmediate="false" itemID="5af9d504-00000564" lastModified="1527879283"/>
           <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/Bottle Assets/co2halffullbottle.xml" loadImmediate="false" itemID="5a09c5be-00000040" lastModified="1510589886"/>
           <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/Bottle Assets/sodabottle.xml" loadImmediate="false" itemID="59f72b12-00000038" lastModified="1509370642"/>
           <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/Bottle Assets/sodabottletint.xml" loadImmediate="false" itemID="59f72a8c-00000026" lastModified="1512744098"/>
@@ -176,34 +176,34 @@
           <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/MintAssets/mintinhand.xml" loadImmediate="false" itemID="5a09c719-0000006e" lastModified="1510590234"/>
           <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/pencil.xml" loadImmediate="false" itemID="59f72b91-0000006a" lastModified="1509370769"/>
           <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/Symbol 1.xml" loadImmediate="false" itemID="5a2ae7a3-000000ac" lastModified="1512761251"/>
-          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/TC_TObject__PhysicalChemicalChanges.xml" loadImmediate="false" itemID="5af9d4fb-00000563" lastModified="1526322427"/>
-          <Include href="TC_TButton__Algae.xml" itemIcon="0" loadImmediate="false" itemID="5af9e528-00000683" lastModified="1526326568"/>
-          <Include href="TC_TButton__Balloon.xml" itemIcon="0" loadImmediate="false" itemID="5af9e52e-00000684" lastModified="1526326574"/>
-          <Include href="TC_TButton__CrystalGrowth.xml" itemIcon="0" loadImmediate="false" itemID="5af9e536-00000685" lastModified="1526326582"/>
-          <Include href="TC_TButton__FlowerReproduction.xml" itemIcon="0" loadImmediate="false" itemID="5af9e542-00000687" lastModified="1526326594"/>
-          <Include href="TC_TButton__IceMeltingTime.xml" itemIcon="0" loadImmediate="false" itemID="5af9e50c-00000681" lastModified="1526326540"/>
-          <Include href="TC_TButton__Ramps.xml" itemIcon="0" loadImmediate="false" itemID="5af9e517-00000682" lastModified="1526326551"/>
-          <Include href="TC_TButton__Sinking.xml" itemIcon="0" loadImmediate="false" itemID="5af9e504-00000680" lastModified="1526326532"/>
-          <Include href="TC_TButton__SodaMintReaction.xml" itemIcon="0" loadImmediate="false" itemID="5af9e4fa-0000067f" lastModified="1526326522"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/TC_TObject__PhysicalChemicalChanges.xml" loadImmediate="false" itemID="5af9d4fb-00000563" lastModified="1527878692"/>
+          <Include href="TC_TButton__Algae.xml" itemIcon="0" loadImmediate="false" itemID="5af9e528-00000683" lastModified="1527880424"/>
+          <Include href="TC_TButton__Balloon.xml" itemIcon="0" loadImmediate="false" itemID="5af9e52e-00000684" lastModified="1527880135"/>
+          <Include href="TC_TButton__CrystalGrowth.xml" itemIcon="0" loadImmediate="false" itemID="5af9e536-00000685" lastModified="1527879955"/>
+          <Include href="TC_TButton__FlowerReproduction.xml" itemIcon="0" loadImmediate="false" itemID="5af9e542-00000687" lastModified="1527880384"/>
+          <Include href="TC_TButton__IceMeltingTime.xml" itemIcon="0" loadImmediate="false" itemID="5af9e50c-00000681" lastModified="1527880158"/>
+          <Include href="TC_TButton__Ramps.xml" itemIcon="0" loadImmediate="false" itemID="5af9e517-00000682" lastModified="1527880259"/>
+          <Include href="TC_TButton__Sinking.xml" itemIcon="0" loadImmediate="false" itemID="5af9e504-00000680" lastModified="1527880302"/>
+          <Include href="TC_TButton__SodaMintReaction.xml" itemIcon="0" loadImmediate="false" itemID="5af9e4fa-0000067f" lastModified="1527879979"/>
           <Include href="TC_TObject__AreasofScienceHighlight.xml" loadImmediate="false" itemID="5af9d63a-000006b4" lastModified="1526322746"/>
-          <Include href="TC_TScene__AreasofScience_1.xml" loadImmediate="false" itemID="5af9da08-0000085e" lastModified="1526323720"/>
-          <Include href="TC_TScene__AreasofScience_2.xml" loadImmediate="false" itemID="5af9da2d-00000903" lastModified="1526323757"/>
-          <Include href="TC_TScene__AreasofScience_3.xml" loadImmediate="false" itemID="5af9da40-000009a8" lastModified="1526323776"/>
-          <Include href="TC_TScene__AreasofScience_4.xml" loadImmediate="false" itemID="5af9da54-00000a4d" lastModified="1526323797"/>
-          <Include href="TC_TScene__AreasofScience_5.xml" loadImmediate="false" itemID="5af9da6c-00000af2" lastModified="1526323820"/>
-          <Include href="TC_TScene__AreasofScience_6.xml" loadImmediate="false" itemID="5af9da81-00000b97" lastModified="1526323841"/>
-          <Include href="TC_TScene__AreasofScience_7.xml" loadImmediate="false" itemID="5af9da96-00000c3c" lastModified="1526323863"/>
-          <Include href="TC_TScene__AreasofScience_8.xml" loadImmediate="false" itemID="5af9dac5-00000ce1" lastModified="1526323910"/>
-          <Include href="TC_TScene__AreasofScience_9.xml" loadImmediate="false" itemID="5af9dadb-00000d86" lastModified="1526323931"/>
-          <Include href="TC_TScene__AreasofScience_10.xml" loadImmediate="false" itemID="5af9daf3-00000e2b" lastModified="1526323956"/>
-          <Include href="TC_TScene__AreasofScience_11.xml" loadImmediate="false" itemID="5af9db0b-00000ed0" lastModified="1526323980"/>
-          <Include href="TC_TScene__AreasofScience_12.xml" loadImmediate="false" itemID="5af9db21-00000f75" lastModified="1526324001"/>
-          <Include href="TC_TScene__AreasofScienceButtons.xml" loadImmediate="false" itemID="5af9d594-00000610" lastModified="1527252639"/>
-          <Include href="TextAssets/FMButtonText.xml" loadImmediate="false" itemID="5a4d0407-00000025" lastModified="1514996743"/>
-          <Include href="TextAssets/HTButtonText.xml" loadImmediate="false" itemID="5a4d03ab-00000018" lastModified="1514996651"/>
+          <Include href="TC_TScene__AreasofScience_1.xml" loadImmediate="false" itemID="5af9da08-0000085e" lastModified="1527879343"/>
+          <Include href="TC_TScene__AreasofScience_2.xml" loadImmediate="false" itemID="5af9da2d-00000903" lastModified="1527879413"/>
+          <Include href="TC_TScene__AreasofScience_3.xml" loadImmediate="false" itemID="5af9da40-000009a8" lastModified="1527879468"/>
+          <Include href="TC_TScene__AreasofScience_4.xml" loadImmediate="false" itemID="5af9da54-00000a4d" lastModified="1527879493"/>
+          <Include href="TC_TScene__AreasofScience_5.xml" loadImmediate="false" itemID="5af9da6c-00000af2" lastModified="1527879526"/>
+          <Include href="TC_TScene__AreasofScience_6.xml" loadImmediate="false" itemID="5af9da81-00000b97" lastModified="1527879549"/>
+          <Include href="TC_TScene__AreasofScience_7.xml" loadImmediate="false" itemID="5af9da96-00000c3c" lastModified="1527879593"/>
+          <Include href="TC_TScene__AreasofScience_8.xml" loadImmediate="false" itemID="5af9dac5-00000ce1" lastModified="1527879632"/>
+          <Include href="TC_TScene__AreasofScience_9.xml" loadImmediate="false" itemID="5af9dadb-00000d86" lastModified="1527879661"/>
+          <Include href="TC_TScene__AreasofScience_10.xml" loadImmediate="false" itemID="5af9daf3-00000e2b" lastModified="1527879704"/>
+          <Include href="TC_TScene__AreasofScience_11.xml" loadImmediate="false" itemID="5af9db0b-00000ed0" lastModified="1527879738"/>
+          <Include href="TC_TScene__AreasofScience_12.xml" loadImmediate="false" itemID="5af9db21-00000f75" lastModified="1527879764"/>
+          <Include href="TC_TScene__AreasofScienceButtons.xml" loadImmediate="false" itemID="5af9d594-00000610" lastModified="1527878457"/>
+          <Include href="TextAssets/FMButtonText.xml" loadImmediate="false" itemID="5a4d0407-00000025" lastModified="1527879118"/>
+          <Include href="TextAssets/HTButtonText.xml" loadImmediate="false" itemID="5a4d03ab-00000018" lastModified="1527878937"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Scene 1" currentFrame="1">
+          <DOMTimeline name="Scene 1" currentFrame="17">
                <layers>
                     <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
                          <frames>
@@ -217,7 +217,7 @@
                     </DOMLayer>
                     <DOMLayer name="Scene Bounds" color="#FF00FF" locked="true" outline="true" useOutlineView="true" autoNamed="false">
                          <frames>
-                              <DOMFrame index="0" duration="2" keyMode="9728">
+                              <DOMFrame index="0" duration="24" keyMode="9728">
                                    <elements>
                                         <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/SceneRegion">
                                              <transformationPoint>
@@ -228,11 +228,11 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Module Content" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="Module Content" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScienceButtons">
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScienceButtons" selected="true">
                                              <matrix>
                                                   <Matrix tx="961.6" ty="536.6"/>
                                              </matrix>
@@ -244,7 +244,7 @@
                               </DOMFrame>
                               <DOMFrame index="1" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_1" selected="true">
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_1">
                                              <matrix>
                                                   <Matrix tx="961.6" ty="536.6"/>
                                              </matrix>
@@ -352,7 +352,7 @@
                               </DOMFrame>
                               <DOMFrame index="10" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_10" selected="true">
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_10">
                                              <matrix>
                                                   <Matrix tx="961.6" ty="536.6"/>
                                              </matrix>
@@ -416,60 +416,36 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMStaticText fontRenderingMode="standard" left="-34.2" width="1824.45" height="164" isSelectable="false">
+                                        <DOMDynamicText name="Topic_chemphys" fontRenderingMode="standard" left="-34.2" width="1828.45" height="183.1" isSelectable="false" lineType="multiline">
                                              <matrix>
-                                                  <Matrix tx="84.25" ty="120.6"/>
+                                                  <Matrix tx="84.25" ty="132.6"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
-                                                       <characters>Within the area of, </characters>
+                                                       <characters>Within the area of, Physical and Chemical Changes,&#xA; please select a topic by clicking on a picture below. </characters>
                                                        <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                                  <DOMTextRun>
-                                                       <characters>Physical and Chemical Changes</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold" fillColor="#0098FF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                                  <DOMTextRun>
-                                                       <characters>, please select a topic by clicking on a picture below. </characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0" lineHeight="90.55" size="70" bitmapSize="1400" face="PTSans-Bold"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                              </textRuns>
-                                        </DOMStaticText>
+                                        </DOMDynamicText>
                                    </elements>
                               </DOMFrame>
                               <DOMFrame index="15" keyMode="9728">
                                    <elements>
-                                        <DOMStaticText selected="true" fontRenderingMode="standard" left="-42.2" width="1836.45" height="164" isSelectable="false">
+                                        <DOMDynamicText name="topic_heattemp" fontRenderingMode="standard" left="-42.2" width="1832.45" height="183.1" isSelectable="false" lineType="multiline">
                                              <matrix>
                                                   <Matrix tx="84.25" ty="136.6"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
-                                                       <characters>Within the area of </characters>
+                                                       <characters>Within the area of Heat &amp; Temperature, please &#xA;select a topic by clicking on a picture below. </characters>
                                                        <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                                  <DOMTextRun>
-                                                       <characters>Heat &amp; Temperature</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold" fillColor="#0098FF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                                  <DOMTextRun>
-                                                       <characters>, please select a topic by clicking on a picture below. </characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0" lineHeight="90.55" size="70" bitmapSize="1400" face="PTSans-Bold"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                              </textRuns>
-                                        </DOMStaticText>
+                                        </DOMDynamicText>
                                         <DOMSymbolInstance libraryItemName="TC_TButton__IceMeltingTime" symbolType="button">
                                              <matrix>
                                                   <Matrix a="2.5" d="2.5" tx="566.1" ty="590.2"/>
@@ -490,31 +466,19 @@
                               </DOMFrame>
                               <DOMFrame index="16" keyMode="9728">
                                    <elements>
-                                        <DOMStaticText selected="true" fontRenderingMode="standard" left="-42.2" width="1836.45" height="164" isSelectable="false">
+                                        <DOMDynamicText name="topic_forcesmotion" fontRenderingMode="standard" left="-42.2" width="1836.45" height="183.1" isSelectable="false" lineType="multiline">
                                              <matrix>
                                                   <Matrix tx="84.25" ty="136.6"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
-                                                       <characters>Within the area of </characters>
+                                                       <characters>Within the area of Forces &amp; Motion, please &#xA;select a topic by clicking on a picture below. </characters>
                                                        <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                                  <DOMTextRun>
-                                                       <characters>Forces &amp; Motion</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold" fillColor="#0098FF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                                  <DOMTextRun>
-                                                       <characters>, please select a topic by clicking on a picture below. </characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="90.55" size="70" bitmapSize="1400" face="PTSans-Bold"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                              </textRuns>
-                                        </DOMStaticText>
+                                        </DOMDynamicText>
                                         <DOMSymbolInstance libraryItemName="TC_TButton__Ramps" symbolType="button">
                                              <matrix>
                                                   <Matrix a="2.5" d="2.5" tx="608.9" ty="596.2"/>
@@ -535,31 +499,19 @@
                               </DOMFrame>
                               <DOMFrame index="17" duration="2" keyMode="9728">
                                    <elements>
-                                        <DOMStaticText fontRenderingMode="standard" left="-42.2" width="1836.45" height="164" isSelectable="false">
+                                        <DOMDynamicText name="topic_plantgrowth" fontRenderingMode="standard" left="-42.2" width="1836.45" height="183.1" isSelectable="false" lineType="multiline">
                                              <matrix>
                                                   <Matrix tx="84.25" ty="136.6"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
-                                                       <characters>Within the area of </characters>
+                                                       <characters>Within the area of Plant Growth, please &#xA;select a topic by clicking on a picture below. </characters>
                                                        <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                                  <DOMTextRun>
-                                                       <characters>Plant Growth</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold" fillColor="#0098FF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                                  <DOMTextRun>
-                                                       <characters>, please select a topic by clicking on a picture below. </characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="81" size="70" bitmapSize="1400" face="ArialRoundedMTBold"/>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0" lineHeight="90.55" size="70" bitmapSize="1400" face="PTSans-Bold"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                              </textRuns>
-                                        </DOMStaticText>
+                                        </DOMDynamicText>
                                         <DOMSymbolInstance libraryItemName="TC_TButton__FlowerReproduction" symbolType="button">
                                              <matrix>
                                                   <Matrix a="2.5" d="2.5" tx="604.6" ty="592.1"/>
@@ -599,7 +551,8 @@
    </property>
    <property id="__ComponentType__">
       <Inspectable name="__ComponentType__" variable="__ComponentType__" category="" verbose="0" defaultValue="1" type="Number"/>
-   </property>]]></parametersAsXML>
+   </property>
+]]></parametersAsXML>
                                         </DOMComponentInstance>
                                    </elements>
                               </DOMFrame>
@@ -612,10 +565,7 @@
           <GlobalScripts language="Javascript"/>
      </scripts>
      <persistentData>
-          <PD n="CreateJSToolkit_timelinedata" v="version
-0.1
-loop
-true"/>
+          <PD n="CreateJSToolkit_timelinedata" v="version 0.1 loop true"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory/>

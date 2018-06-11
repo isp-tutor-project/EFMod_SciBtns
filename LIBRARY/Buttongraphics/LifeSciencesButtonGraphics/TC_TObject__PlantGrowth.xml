@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/LifeSciencesButtonGraphics/TC_TObject__PlantGrowth" itemID="5af9d504-00000564" lastModified="1526322436">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/LifeSciencesButtonGraphics/TC_TObject__PlantGrowth" itemID="5af9d504-00000564" lastModified="1527879283">
   <timeline>
     <DOMTimeline name="TC_TObject__PlantGrowth">
       <layers>
@@ -14,7 +14,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMStaticText fontRenderingMode="standard" width="103.5" height="17.05" autoExpand="true" isSelectable="false">
+                <DOMDynamicText name="PlantGrowth" fontRenderingMode="standard" width="89.8" height="20.7" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix a="0.858154296875" d="0.858154296875" tx="-42.9" ty="-70.75"/>
                   </matrix>
@@ -22,30 +22,24 @@
                     <DOMTextRun>
                       <characters>Plant Growth</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" lineHeight="17.05" size="14" bitmapSize="280" face="Verdana-Bold"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="20.7" size="16" bitmapSize="320" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" left="7.8" width="128.4" height="42.85" autoExpand="true" isSelectable="false">
+                </DOMDynamicText>
+                <DOMDynamicText name="FlowerRepro" fontRenderingMode="standard" left="14.15" width="115.7" height="54.55" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix a="0.858154296875" d="0.858154296875" tx="-111.6" ty="15.65"/>
+                    <Matrix a="0.858154296875" d="0.858154296875" tx="-108.85" ty="11.9"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>&#xD;Flower Reproduction</characters>
+                      <characters>&#xD;Flower Reproduction&#xD;</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="13.35" size="11" bitmapSize="220" face="Verdana-Bold"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>&#xD;</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12.15" size="10" bitmapSize="200" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="16.85" size="13" bitmapSize="260" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
+                </DOMDynamicText>
                 <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/GreenhouseButtonGraphic" centerPoint3DX="-46.95" centerPoint3DY="-8">
                   <matrix>
                     <Matrix a="0.70330810546875" d="0.70330810546875" tx="-47" ty="-8"/>
@@ -70,7 +64,7 @@
                     <Point x="0.3" y="-0.2"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMStaticText fontRenderingMode="standard" left="37.7" width="68.6" height="10.95" autoExpand="true" isSelectable="false">
+                <DOMDynamicText name="AlgaeGrowth" fontRenderingMode="standard" left="37.25" width="69.5" height="16.85" autoExpand="true" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix tx="-6.5" ty="36"/>
                   </matrix>
@@ -78,12 +72,12 @@
                     <DOMTextRun>
                       <characters>Algae Growth</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="10.95" size="9" bitmapSize="180" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="15.5" bitmapSize="240" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" left="66.6" width="10.8" height="10.95" autoExpand="true" isSelectable="false">
+                </DOMDynamicText>
+                <DOMDynamicText name="S_or" fontRenderingMode="standard" left="52" width="42.2" height="11.65" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix tx="-54.85" ty="28"/>
                   </matrix>
@@ -91,11 +85,11 @@
                     <DOMTextRun>
                       <characters>or</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="10.95" size="9" bitmapSize="180" face="Verdana-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="11.65" size="9" bitmapSize="180" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
+                </DOMDynamicText>
               </elements>
             </DOMFrame>
           </frames>

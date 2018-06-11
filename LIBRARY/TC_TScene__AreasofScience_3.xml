@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TScene__AreasofScience_3" itemID="5af9da40-000009a8" lastModified="1526323776">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TScene__AreasofScience_3" itemID="5af9da40-000009a8" lastModified="1527879468">
   <timeline>
     <DOMTimeline name="TC_TScene__AreasofScience_3">
       <layers>
@@ -6,14 +6,14 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScienceButtons" selected="true">
+                <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScienceButtons">
                   <transformationPoint>
                     <Point y="0.8"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="TC_TObject__AreasofScienceHighlight" selected="true" centerPoint3DX="-241.8" centerPoint3DY="11.2">
+                <DOMSymbolInstance libraryItemName="TC_TObject__AreasofScienceHighlight" centerPoint3DX="-235.8" centerPoint3DY="23.2">
                   <matrix>
-                    <Matrix a="0.3016357421875" d="0.135299682617188" tx="-241.8" ty="11.2"/>
+                    <Matrix a="0.3016357421875" d="0.135299682617188" tx="-235.8" ty="23.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.15"/>
