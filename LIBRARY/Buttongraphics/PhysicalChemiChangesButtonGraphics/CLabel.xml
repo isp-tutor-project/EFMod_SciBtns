@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/labelcolor" selected="true">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/labelcolor">
                   <matrix>
                     <Matrix tx="-5.2"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/sugarfree" selected="true">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/sugarfree">
                   <matrix>
                     <Matrix tx="-5.25" ty="-11.6"/>
                   </matrix>
@@ -30,7 +30,7 @@
                     <Point x="0.25" y="0.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/sodatext" selected="true">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/sodatext">
                   <matrix>
                     <Matrix a="0.7623291015625" d="0.7623291015625" tx="-4.3" ty="4"/>
                   </matrix>

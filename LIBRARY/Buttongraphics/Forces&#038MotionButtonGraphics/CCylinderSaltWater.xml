@@ -14,7 +14,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/Saltwater" selected="true">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/Saltwater">
                   <matrix>
                     <Matrix tx="13.1" ty="23"/>
                   </matrix>
@@ -22,7 +22,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CCylinder">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CCylinder" selected="true">
                   <matrix>
                     <Matrix tx="-0.05"/>
                   </matrix>

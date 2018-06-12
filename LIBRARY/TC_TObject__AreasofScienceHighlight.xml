@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TObject__AreasofScienceHighlight" itemID="5af9d63a-000006b4" lastModified="1526322746">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TObject__AreasofScienceHighlight" itemID="5af9d63a-000006b4" lastModified="1528815614">
   <timeline>
     <DOMTimeline name="TC_TObject__AreasofScienceHighlight">
       <layers>
@@ -12,9 +12,25 @@
                       <SolidColor color="#00CCFF" alpha="0.2"/>
                     </FillStyle>
                   </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="4.9">
+                        <fill>
+                          <SolidColor color="#34A2E9"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
                   <edges>
-                    <Edge fillStyle1="1" edges="!-5541 -4161|5542 -4161!5542 -4161[5832 -4161 6037 -3956!6037 -3956[6242 -3751 6242 -3461!6242 -3461|6242 3461!6242 3461[6242 3751 6037 3956!6037 3956[5832 4161 5542 4161!5542 4161|-5541 4161!-5541 4161[-5831 4161 -6036 3956!-6036 3956
-[-6241 3751 -6241 3461!-6241 3461|-6241 -3461!-6241 -3461[-6241 -3751 -6036 -3956!-6036 -3956[-5831 -4161 -5541 -4161"/>
+                    <Edge strokeStyle="1" edges="!-5467 -4216|5570 -4216!5570 -4216[5870 -4216 6081 -4000!6081 -4000[6293 -3783 6293 -3477!6293 -3477|6293 3370!6293 3370[6293 #E28.4E 6146.5 3817"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!6146.5 3817[#17E4.D1 #F10.57 6081 3893!6081 3893[5870 4109 5570 4109!5570 4109|-5467 4109!-5467 4109[-5766 4109 -5978 3893!-5978 3893[-6190 3676 -6190 3370!-6190 3370|-6190 -3477!-6190 -3477[-6190 -3783 -5978 -4000!-5978 -4000[#FFE8BB.94
+ #FFF04A.04 -5934 -4041.5"/>
+                    <Edge strokeStyle="1" edges="
+!-5934 -4041.5[#FFE998.6E -4216 -5467 -4216"/>
+                    <Edge fillStyle1="1" edges="
+!-5541 -4161|5542 -4161!5542 -4161[#16A5.04 -4161 5986.5 -4002.5!5986.5 -4002.5[#177C.45 #FFF073.45 6037 -3956!6037 -3956[6242 -3751 6242 -3461!6242 -3461|6242 3461!6242 3461[6242 #E4A.D9 6146.5 3817!6146.5 3817[#17D6.24 #F32.DC 6037
+ 3956!6037 3956[5832 4161 5542 4161!5542 4161|-5541 4161!-5541 4161[-5831 4161 -6036 3956!-6036 3956[-6241 3751 -6241 3461!-6241 3461|-6241 -3461!-6241 -3461[-6241 -3751 -6036 -3956!-6036 -3956[#FFE89C.A2 #FFF05B.5E -5934 -4041.5!-5934
+ -4041.5[#FFE97D.CC -4161 -5541 -4161"/>
                   </edges>
                 </DOMShape>
               </elements>

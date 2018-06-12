@@ -43,7 +43,7 @@
                     <Point x="234" y="138.5"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/SaltWaterScenes/CSmall_GlassSphere_SaltWater" centerPoint3DX="57.2" centerPoint3DY="-11.25">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/SaltWaterScenes/CSmall_GlassSphere_SaltWater" selected="true" centerPoint3DX="57.2" centerPoint3DY="-11.25">
                   <matrix>
                     <Matrix a="0.289794921875" d="0.289794921875" tx="68.65" ty="-11.25"/>
                   </matrix>

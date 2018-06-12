@@ -14,7 +14,7 @@
                     <Point y="-0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerwithnumbers">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerwithnumbers" selected="true">
                   <matrix>
                     <Matrix tx="-63.75" ty="-112.95"/>
                   </matrix>

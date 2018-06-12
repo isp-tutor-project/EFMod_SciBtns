@@ -22,7 +22,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/cylinderglasshighlights">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/cylinderglasshighlights" selected="true">
                   <matrix>
                     <Matrix tx="-6.25" ty="-4.3"/>
                   </matrix>

@@ -72,7 +72,7 @@
           <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/Cylinderbaseback.xml" loadImmediate="false" itemID="5a284981-00000059" lastModified="1512589697"/>
           <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/cylinderbasegloss.xml" loadImmediate="false" itemID="5a284836-0000001f" lastModified="1512589366"/>
           <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/CylinderGlass.xml" loadImmediate="false" itemID="5a2848b1-00000039" lastModified="1512589489"/>
-          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/cylinderglasshighlights.xml" loadImmediate="false" itemID="5a284881-00000031" lastModified="1512589441"/>
+          <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/cylinderglasshighlights.xml" loadImmediate="false" itemID="5a284881-00000031" lastModified="1528814841"/>
           <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/CylinderGraduations.xml" loadImmediate="false" itemID="5a2848a1-00000035" lastModified="1512589473"/>
           <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/Saltwater.xml" loadImmediate="false" itemID="5a285109-00000218" lastModified="1526326369"/>
           <Include href="Buttongraphics/Forces&amp;#038MotionButtonGraphics/Ramp/RampSim Assets/CAngleCue.xml" itemID="48bab70d-000001ba" lastModified="1220206735"/>
@@ -101,7 +101,7 @@
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerarrowzerodegrees.xml" loadImmediate="false" itemID="5a25752c-000000ed" lastModified="1512404268"/>
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerknob.xml" loadImmediate="false" itemID="5a1c7a55-0000002e" lastModified="1511815766"/>
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerpointernegativetwenty.xml" loadImmediate="false" itemID="5a2574d1-000000e7" lastModified="1512404177"/>
-          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerwithnumbers.xml" loadImmediate="false" itemID="5a1c7ac4-00000042" lastModified="1511815876"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CDOThermometer Assets/thermometerwithnumbers.xml" loadImmediate="false" itemID="5a1c7ac4-00000042" lastModified="1528813004"/>
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Chairs/CWoodChair.xml" loadImmediate="false" itemID="5a34366f-00000022" lastModified="1513371247"/>
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Chairs/WoodChair Assets/CWoodChairOutline.xml" loadImmediate="false" itemID="5a34361e-00000017" lastModified="1513371166"/>
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Chairs/WoodChair Assets/WoodChairColor.xml" loadImmediate="false" itemID="5a343662-0000001e" lastModified="1513371234"/>
@@ -109,7 +109,7 @@
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CIceCubeContainer.xml" loadImmediate="false" itemID="5a257795-0000016e" lastModified="1512404885"/>
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CIceCubeContainer Assets/icecubecontainer.xml" loadImmediate="false" itemID="5a1c7ad3-00000046" lastModified="1511815891"/>
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CIceCubeContainer Assets/icecubesincontainer.xml" loadImmediate="false" itemID="5a1c7a94-0000003a" lastModified="1511815829"/>
-          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/ClosedUmbrella_WoodChair_FoilBalloon_Gray.xml" loadImmediate="false" itemID="5a4d1c51-000006e2" lastModified="1515002961"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/ClosedUmbrella_WoodChair_FoilBalloon_Gray.xml" loadImmediate="false" itemID="5a4d1c51-000006e2" lastModified="1528812913"/>
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAll.xml" loadImmediate="false" itemID="5a26c53b-0000007f" lastModified="1512490299"/>
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAssets/Shortglass.xml" loadImmediate="false" itemID="5a1c79bb-00000022" lastModified="1511815611"/>
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAssets/Shortglassicecube.xml" loadImmediate="false" itemID="5a1c79af-0000001e" lastModified="1511815599"/>
@@ -117,8 +117,8 @@
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAssets/Shortglasssteamonly.xml" loadImmediate="false" itemID="5a257e68-00000242" lastModified="1512406632"/>
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAssets/Shortglasswater.xml" loadImmediate="false" itemID="5a1c79a2-0000001a" lastModified="1511815586"/>
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/table.xml" loadImmediate="false" itemID="5a1c7b04-0000004a" lastModified="1511815940"/>
-          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Temperature Assets/CTemperatureReader.xml" loadImmediate="false" itemID="5a37d6f7-0000002a" lastModified="1513608951"/>
-          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Temperature Assets/TemperatureGaugeNumbers.xml" loadImmediate="false" itemID="5a37d859-0000004f" lastModified="1513609305"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Temperature Assets/CTemperatureReader.xml" loadImmediate="false" itemID="5a37d6f7-0000002a" lastModified="1528812934"/>
+          <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/Temperature Assets/TemperatureGaugeNumbers.xml" loadImmediate="false" itemID="5a37d859-0000004f" lastModified="1528812880"/>
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/UmbrellaAssets/CClosedUmbrellawithShadow.xml" loadImmediate="false" itemID="5a391d1b-0000008f" lastModified="1513692443"/>
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/UmbrellaAssets/ClosedUmbrellaShadow.xml" loadImmediate="false" itemID="5a37d7fb-0000004b" lastModified="1513609211"/>
           <Include href="Buttongraphics/Heat&amp;#038TempButtonGraphics/UmbrellaAssets/UmbrellaClosedSolid.xml" loadImmediate="false" itemID="5a391c6e-00000084" lastModified="1513692270"/>
@@ -127,7 +127,7 @@
           <Include href="Buttongraphics/LifeSciencesButtonGraphics/CFishTankAssets/squarefishtank.xml" loadImmediate="false" itemID="5a1c52c4-00000037" lastModified="1511805636"/>
           <Include href="Buttongraphics/LifeSciencesButtonGraphics/CFishTankAssets/squaretintedfishtanklid.xml" loadImmediate="false" itemID="5a1c5249-00000023" lastModified="1511805513"/>
           <Include href="Buttongraphics/LifeSciencesButtonGraphics/CFishTankRoomTemp.xml" loadImmediate="false" itemID="5a216744-00000122" lastModified="1514997435"/>
-          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse.xml" loadImmediate="false" itemID="5a1c8595-00000464" lastModified="1514997906"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse.xml" loadImmediate="false" itemID="5a1c8595-00000464" lastModified="1528815161"/>
           <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive.xml" loadImmediate="false" itemID="5a1db7f8-000004e9" lastModified="1511900424"/>
           <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeHive.xml" loadImmediate="false" itemID="5a1da963-000004b8" lastModified="1511893347"/>
           <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CDO_BeeHive Assets/BeeHiveOutline.xml" loadImmediate="false" itemID="5a1dc117-000007ea" lastModified="1511900212"/>
@@ -154,7 +154,7 @@
           <Include href="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/GreenHouseFront.xml" loadImmediate="false" itemID="5a1da94d-000004b6" lastModified="1511893325"/>
           <Include href="Buttongraphics/LifeSciencesButtonGraphics/CThermometer Assets/squarefishtankthermometer.xml" loadImmediate="false" itemID="5a1c521f-0000001f" lastModified="1511805471"/>
           <Include href="Buttongraphics/LifeSciencesButtonGraphics/CThermometer Assets/squarethermometercolorroomtemp.xml" loadImmediate="false" itemID="5a1c520c-0000001b" lastModified="1511805452"/>
-          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CThermometer Assets/squarethermometernumbers.xml" loadImmediate="false" itemID="5a1c51e8-00000012" lastModified="1511805416"/>
+          <Include href="Buttongraphics/LifeSciencesButtonGraphics/CThermometer Assets/squarethermometernumbers.xml" loadImmediate="false" itemID="5a1c51e8-00000012" lastModified="1528812808"/>
           <Include href="Buttongraphics/LifeSciencesButtonGraphics/CThermometerRoomTemp.xml" loadImmediate="false" itemID="5a2164f9-000000b8" lastModified="1512137977"/>
           <Include href="Buttongraphics/LifeSciencesButtonGraphics/GreenhouseButtonGraphic.xml" loadImmediate="false" itemID="5a4d08bd-00000213" lastModified="1514997949"/>
           <Include href="Buttongraphics/LifeSciencesButtonGraphics/TC_TObject__PlantGrowth.xml" loadImmediate="false" itemID="5af9d504-00000564" lastModified="1527879283"/>
@@ -169,10 +169,10 @@
           <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CDOJarAssets/yarnwithjar.xml" loadImmediate="false" itemID="5a0dac06-00000029" lastModified="1510845446"/>
           <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/Cjar_yarn_fullcrystal.xml" loadImmediate="false" itemID="5a281606-00000093" lastModified="1512576518"/>
           <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabel.xml" loadImmediate="false" itemID="5a2aa01f-0000005e" lastModified="1512742943"/>
-          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/caffeinefree.xml" loadImmediate="false" itemID="5a09c50c-0000002c" lastModified="1510589708"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/caffeinefree.xml" loadImmediate="false" itemID="5a09c50c-0000002c" lastModified="1528815020"/>
           <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/labelcolor.xml" loadImmediate="false" itemID="5a09c55c-00000036" lastModified="1510589788"/>
-          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/sodatext.xml" loadImmediate="false" itemID="59f72a10-00000012" lastModified="1509370384"/>
-          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/sugarfree.xml" loadImmediate="false" itemID="5a09c543-00000031" lastModified="1510589763"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/sodatext.xml" loadImmediate="false" itemID="59f72a10-00000012" lastModified="1528814970"/>
+          <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/CLabelAssets/sugarfree.xml" loadImmediate="false" itemID="5a09c543-00000031" lastModified="1528814996"/>
           <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/MintAssets/mintinhand.xml" loadImmediate="false" itemID="5a09c719-0000006e" lastModified="1510590234"/>
           <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/pencil.xml" loadImmediate="false" itemID="59f72b91-0000006a" lastModified="1509370769"/>
           <Include href="Buttongraphics/PhysicalChemiChangesButtonGraphics/Symbol 1.xml" loadImmediate="false" itemID="5a2ae7a3-000000ac" lastModified="1512761251"/>
@@ -185,17 +185,17 @@
           <Include href="TC_TButton__Ramps.xml" itemIcon="0" loadImmediate="false" itemID="5af9e517-00000682" lastModified="1527880259"/>
           <Include href="TC_TButton__Sinking.xml" itemIcon="0" loadImmediate="false" itemID="5af9e504-00000680" lastModified="1527880302"/>
           <Include href="TC_TButton__SodaMintReaction.xml" itemIcon="0" loadImmediate="false" itemID="5af9e4fa-0000067f" lastModified="1527879979"/>
-          <Include href="TC_TObject__AreasofScienceHighlight.xml" loadImmediate="false" itemID="5af9d63a-000006b4" lastModified="1526322746"/>
-          <Include href="TC_TScene__AreasofScience_1.xml" loadImmediate="false" itemID="5af9da08-0000085e" lastModified="1527879343"/>
+          <Include href="TC_TObject__AreasofScienceHighlight.xml" loadImmediate="false" itemID="5af9d63a-000006b4" lastModified="1528815614"/>
+          <Include href="TC_TScene__AreasofScience_1.xml" loadImmediate="false" itemID="5af9da08-0000085e" lastModified="1528815637"/>
           <Include href="TC_TScene__AreasofScience_2.xml" loadImmediate="false" itemID="5af9da2d-00000903" lastModified="1527879413"/>
           <Include href="TC_TScene__AreasofScience_3.xml" loadImmediate="false" itemID="5af9da40-000009a8" lastModified="1527879468"/>
-          <Include href="TC_TScene__AreasofScience_4.xml" loadImmediate="false" itemID="5af9da54-00000a4d" lastModified="1527879493"/>
+          <Include href="TC_TScene__AreasofScience_4.xml" loadImmediate="false" itemID="5af9da54-00000a4d" lastModified="1528815688"/>
           <Include href="TC_TScene__AreasofScience_5.xml" loadImmediate="false" itemID="5af9da6c-00000af2" lastModified="1527879526"/>
           <Include href="TC_TScene__AreasofScience_6.xml" loadImmediate="false" itemID="5af9da81-00000b97" lastModified="1527879549"/>
-          <Include href="TC_TScene__AreasofScience_7.xml" loadImmediate="false" itemID="5af9da96-00000c3c" lastModified="1527879593"/>
+          <Include href="TC_TScene__AreasofScience_7.xml" loadImmediate="false" itemID="5af9da96-00000c3c" lastModified="1528816041"/>
           <Include href="TC_TScene__AreasofScience_8.xml" loadImmediate="false" itemID="5af9dac5-00000ce1" lastModified="1527879632"/>
           <Include href="TC_TScene__AreasofScience_9.xml" loadImmediate="false" itemID="5af9dadb-00000d86" lastModified="1527879661"/>
-          <Include href="TC_TScene__AreasofScience_10.xml" loadImmediate="false" itemID="5af9daf3-00000e2b" lastModified="1527879704"/>
+          <Include href="TC_TScene__AreasofScience_10.xml" loadImmediate="false" itemID="5af9daf3-00000e2b" lastModified="1528815995"/>
           <Include href="TC_TScene__AreasofScience_11.xml" loadImmediate="false" itemID="5af9db0b-00000ed0" lastModified="1527879738"/>
           <Include href="TC_TScene__AreasofScience_12.xml" loadImmediate="false" itemID="5af9db21-00000f75" lastModified="1527879764"/>
           <Include href="TC_TScene__AreasofScienceButtons.xml" loadImmediate="false" itemID="5af9d594-00000610" lastModified="1527878457"/>
@@ -203,7 +203,7 @@
           <Include href="TextAssets/HTButtonText.xml" loadImmediate="false" itemID="5a4d03ab-00000018" lastModified="1527878937"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Scene 1" currentFrame="17">
+          <DOMTimeline name="Scene 1" currentFrame="7">
                <layers>
                     <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
                          <frames>
@@ -232,7 +232,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScienceButtons" selected="true">
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScienceButtons">
                                              <matrix>
                                                   <Matrix tx="961.6" ty="536.6"/>
                                              </matrix>
@@ -268,7 +268,7 @@
                               </DOMFrame>
                               <DOMFrame index="3" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_3">
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_3" selected="true">
                                              <matrix>
                                                   <Matrix tx="961.6" ty="536.6"/>
                                              </matrix>
@@ -316,7 +316,7 @@
                               </DOMFrame>
                               <DOMFrame index="7" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_7">
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__AreasofScience_7" selected="true">
                                              <matrix>
                                                   <Matrix tx="961.6" ty="536.6"/>
                                              </matrix>
@@ -535,7 +535,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Module Component" color="#00FFFF" autoNamed="false" visible="false">
+                    <DOMLayer name="Module Component" color="#00FFFF" locked="true" autoNamed="false" visible="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>

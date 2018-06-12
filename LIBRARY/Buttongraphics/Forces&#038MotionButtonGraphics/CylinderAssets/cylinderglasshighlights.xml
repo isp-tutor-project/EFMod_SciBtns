@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/cylinderglasshighlights" itemID="5a284881-00000031" lastModified="1512589441">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/Forces&amp;#038MotionButtonGraphics/CylinderAssets/cylinderglasshighlights" itemID="5a284881-00000031" lastModified="1528814841">
   <timeline>
     <DOMTimeline name="cylinderglasshighlights">
       <layers>
@@ -43,17 +43,6 @@
                         <GradientEntry color="#FFFFFF" alpha="0.247058823529412" ratio="0.141176470588235"/>
                         <GradientEntry color="#FFFFFF" alpha="0.498039215686275" ratio="0.47843137254902"/>
                         <GradientEntry color="#FFFFFF" alpha="0.498039215686275" ratio="0.552941176470588"/>
-                        <GradientEntry color="#F7FFFF" alpha="0.447058823529412" ratio="1"/>
-                        <GradientEntry ratio="1"/>
-                      </LinearGradient>
-                    </FillStyle>
-                    <FillStyle index="4">
-                      <LinearGradient>
-                        <matrix>
-                          <Matrix a="0.078125" d="0.0274810791015625" tx="7" ty="-135.7"/>
-                        </matrix>
-                        <GradientEntry color="#FFFFFF" ratio="0"/>
-                        <GradientEntry color="#FFFFFF" alpha="0.498039215686275" ratio="0.549019607843137"/>
                         <GradientEntry color="#F7FFFF" alpha="0.447058823529412" ratio="1"/>
                         <GradientEntry ratio="1"/>
                       </LinearGradient>
@@ -113,21 +102,17 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!930 -2149S7|763 -2149"/>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!763 -2149S6|64 -2149"/>
-                    <Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="!64 -2149S7|-284 -2149"/>
-                    <Edge fillStyle1="1" edges="!-284 -2149S2|-345 -2149!-345 -2149[-349 -2170 -356 -2184!-356 -2184[-367 -2210 -399 -2250!-399 -2250[-430 -2292 -456 -2321!-456 -2321|-456 -2331!-456 -2331[-448 -2329 -440 -2328!-440 -2328[-164 -2272 186 -2247!186 -2247[401 -2231 818
- -2220!818 -2220[945 -2217 997 -2217!997 -2217[1074 -2217 1139 -2222!1139 -2222|1129 -2149!1129 -2149[1125 -2149 1122 -2149!1122 -2149|930 -2149"/>
+                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!930 -2149|763 -2149"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!763 -2149|64 -2149"/>
+                    <Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="!64 -2149|-284 -2149"/>
+                    <Edge fillStyle1="1" edges="!-284 -2149|-345 -2149!-345 -2149[-349 -2170 -356 -2184!-356 -2184[-367 -2210 -399 -2250!-399 -2250[-430 -2292 -456 -2321!-456 -2321|-456 -2331!-456 -2331[-448 -2329 -440 -2328!-440 -2328[-164 -2272 186 -2247!186 -2247[401 -2231 818 -2220
+!818 -2220[945 -2217 997 -2217!997 -2217[1074 -2217 1139 -2222!1139 -2222|1129 -2149!1129 -2149[1125 -2149 1122 -2149!1122 -2149|930 -2149"/>
                     <Edge fillStyle1="2" strokeStyle="2" edges="
-!930 -2149S6|930 3115!930 3115[930 3151 895 3151!895 3151|799 3151!799 3151[763 3151 763 3115!763 3115|763 -2149"/>
+!930 -2149|930 3115!930 3115[930 3151 895 3151!895 3151|799 3151!799 3151[763 3151 763 3115!763 3115|763 -2149"/>
                     <Edge fillStyle1="3" strokeStyle="3" edges="
-!64 -2149S6|64 3164"/>
-                    <Edge fillStyle1="4" edges="
-!-444 -3147S2[-176 -3141 92 -3136!92 -3136|-1139 -3135!-1139 -3135|-1139 -3164!-1139 -3164[-790 -3154 -444 -3147"/>
-                    <Edge fillStyle1="3" strokeStyle="3" edges="
-!-284 3150S6|-284 -2149"/>
+!64 -2149|64 3164!-284 3150|-284 -2149"/>
                     <Edge fillStyle0="3" edges="
-!-284 3150S1[-112 3158 64 3164"/>
+!-284 3150[-112 3158 64 3164"/>
                     <Edge cubics="!-1139 -3164(;-906,-3157 -673,-3152 -444,-3147q-1139 -3164 -444 -3147);"/>
                     <Edge cubics="!-444 -3147(;-265,-3143 -87,-3139 92,-3136q-444 -3147Q-176 -3141q92 -3136);"/>
                     <Edge cubics="!-1139 -3135(;-1139,-3135 -1139,-3164 -1139,-3164q-1139 -3135 -1139 -3164);"/>

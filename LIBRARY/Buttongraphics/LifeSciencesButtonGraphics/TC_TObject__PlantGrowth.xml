@@ -40,7 +40,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/GreenhouseButtonGraphic" centerPoint3DX="-46.95" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/GreenhouseButtonGraphic" selected="true" centerPoint3DX="-46.95" centerPoint3DY="-8">
                   <matrix>
                     <Matrix a="0.70330810546875" d="0.70330810546875" tx="-47" ty="-8"/>
                   </matrix>

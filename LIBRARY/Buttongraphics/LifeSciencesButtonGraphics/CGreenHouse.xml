@@ -1,11 +1,11 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse" itemID="5a1c8595-00000464" lastModified="1514997906" lastUniqueIdentifier="4">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse" itemID="5a1c8595-00000464" lastModified="1528815161" lastUniqueIdentifier="4">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="CGreenHouse">
       <layers>
-        <DOMLayer name="GreenHouseFront" color="#00FFFF" locked="true" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="GreenHouseFront" color="#00FFFF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -37,23 +37,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Thermometer" color="#00FFFF" locked="true" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CGreenHouse Assets/CThermometer" name="Sthermometer">
-                  <matrix>
-                    <Matrix tx="110.2" ty="40.8"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="GreenHouseBack" color="#FF4FFF" locked="true" autoNamed="false">
+        <DOMLayer name="GreenHouseBack" color="#FF4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

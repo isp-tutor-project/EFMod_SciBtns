@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/Heat&amp;#038TempButtonGraphics/Temperature Assets/TemperatureGaugeNumbers" itemID="5a37d859-0000004f" lastModified="1513609305">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Buttongraphics/Heat&amp;#038TempButtonGraphics/Temperature Assets/TemperatureGaugeNumbers" itemID="5a37d859-0000004f" lastModified="1528812880">
   <timeline>
     <DOMTimeline name="TemperatureGaugeNumbers">
       <layers>
@@ -6,15 +6,21 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText selected="true" fontRenderingMode="standard" width="93.45" height="104" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="102.2" height="136.4" autoExpand="true" isSelectable="false">
                   <matrix>
-                    <Matrix a="0.17486572265625" b="-0.046844482421875" c="0.046844482421875" d="0.17486572265625" tx="-10.6" ty="-6.9"/>
+                    <Matrix a="0.17486572265625" b="-0.046844482421875" c="0.046844482421875" d="0.17486572265625" tx="-17.2" ty="-6.9"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>    0&#xD;0.00</characters>
+                      <characters>   </characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" lineHeight="51" size="40" bitmapSize="800" face="Silom"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> 0&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="67.2" size="60" bitmapSize="1200" face="PTMono-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

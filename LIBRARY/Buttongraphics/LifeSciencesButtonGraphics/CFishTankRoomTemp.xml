@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CFishTankAssets/squarefishtank" selected="true">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CFishTankAssets/squarefishtank">
                   <matrix>
                     <Matrix a="1.4176025390625" d="1.4176025390625" tx="-0.4" ty="2.4"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point x="0.05" y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CFishTankAssets/squaredistilledwater" selected="true">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CFishTankAssets/squaredistilledwater">
                   <matrix>
                     <Matrix a="1.4176025390625" d="1.4176025390625" tx="-1.05" ty="28.3"/>
                   </matrix>
@@ -22,7 +22,7 @@
                     <Point x="0.05" y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CFishTankAssets/squaretintedfishtanklid" selected="true">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CFishTankAssets/squaretintedfishtanklid">
                   <matrix>
                     <Matrix a="1.4176025390625" d="1.4176025390625" ty="-101.5"/>
                   </matrix>

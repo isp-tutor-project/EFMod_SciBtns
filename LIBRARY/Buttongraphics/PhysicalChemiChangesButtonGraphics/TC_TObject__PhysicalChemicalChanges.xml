@@ -22,7 +22,7 @@
                     <Point x="0.1" y="0.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/PhysicalChemiChangesButtonGraphics/BottleCombinedWGeyser" centerPoint3DX="54.5" centerPoint3DY="-7.9">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/PhysicalChemiChangesButtonGraphics/BottleCombinedWGeyser" selected="true" centerPoint3DX="54.5" centerPoint3DY="-7.9">
                   <matrix>
                     <Matrix a="0.3580322265625" d="0.321090698242188" tx="54.45" ty="-7.95"/>
                   </matrix>
@@ -38,7 +38,7 @@
                     <DOMTextRun>
                       <characters>&#xD;Crystal Growth&#xD;</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="16.85" size="13" bitmapSize="280" face="PTSans-Bold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="16.85" size="13" bitmapSize="260" face="PTSans-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

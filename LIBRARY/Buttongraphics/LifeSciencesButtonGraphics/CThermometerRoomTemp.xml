@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CThermometer Assets/squarefishtankthermometer" selected="true">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CThermometer Assets/squarefishtankthermometer">
                   <matrix>
                     <Matrix ty="0.1"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CThermometer Assets/squarethermometercolorroomtemp" selected="true">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/LifeSciencesButtonGraphics/CThermometer Assets/squarethermometercolorroomtemp">
                   <matrix>
                     <Matrix tx="-1.15" ty="30.55"/>
                   </matrix>

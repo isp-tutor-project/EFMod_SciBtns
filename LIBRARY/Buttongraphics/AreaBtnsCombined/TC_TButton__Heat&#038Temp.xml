@@ -35,7 +35,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAll" centerPoint3DX="-53.3" centerPoint3DY="-5.05">
+                <DOMSymbolInstance libraryItemName="Buttongraphics/Heat&amp;#038TempButtonGraphics/CShortGlassAll" selected="true" centerPoint3DX="-53.3" centerPoint3DY="-5.05">
                   <matrix>
                     <Matrix a="0.1905517578125" d="0.1905517578125" tx="-53.3" ty="-5.1"/>
                   </matrix>
